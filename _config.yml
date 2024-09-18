@@ -5,7 +5,7 @@ url: https://veecarling.github.io
 avatar: /profilephoto.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /bkg.jpg
 
 # Gems
 plugins:
