@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <!-- HEADER -->
+    <!-- '<br>' for line break and '<hr>' for horizontal rule, h1 is largest-->
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale = 0.41, maximum-scale = 1" />
+        <meta name = "description" content = "Vanessa Kwong portfolio">
+        <meta name = "keywords" content = "Vanessa Kwong, UC Riverside, UCR">
+        <meta name = "author" content = "Vanessa Kwong">
+
+        <title>Vanessa Kwong</title>
+
+        <link rel = "icon" href = "images/logo.png">
+
+        <style type = "text/css">
+            body {
+                margin: 0px;
+            }
+        </style>
+    </head>
+
+    <!--BODY-->
+    <body >
+
+        <script>/***
+        <style>
+            
+            ul{
+                list-style-type:none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color:black;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 8px 10px;
+                font-family: Garamond;
+            }
+
+            li a:hover{
+                color: rgb(200, 236, 255)
+            }
+        </style>
+
+        <ul>
+            <li>
+                <a href = "#home">
+                <img class = "home-logo" 
+                src = "images/logo.png"
+                height = "55"
+                alt = "Logo">
+                </a>
+            </li>
+            <li>
+                <a href = "#Resume / CV">
+                    Resume / CV
+                </a>
+            </li>
+        </ul>
+        ***/</script>
+
+        <div id = "navbar" style = "background-color: black;" >
+        <!--TOP LOGO AND NAVIGATION BAR-->
+            <style>
+                
+
+
+
+                .home {
+                    background-color:black;
+                    border: none;
+                    cursor: pointer;
+                }
+
+                .home-logo {
+                    background-color: black;
+                    display:inline-block;
+                    padding: 8px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    vertical-align: middle;
+                }
+
+                .home-name {
+                    display:inline-block;
+                    color:aliceblue;
+                    vertical-align: middle;
+                    font-weight: bold;
+                    font-family: Garamond;
+                }
+
+            </style>
+
+            <form style = "display:inline-block";>
+
+                <button class = "home">
+                    <img class = "home-logo" 
+                    src = "images/logo.png" 
+                    height = "55" 
+                    alt = "Logo"
+                    formaction = "veecarling.github.io">
+
+                    <h1 class = "home-name" >
+                        Vanessa Kwong
+
+                    </h1>
+                </button>
+            </form>
+
+            <style>
+                .resumecv-button {
+                    cursor: pointer;
+                    background-color: black;
+                    color: aliceblue;
+                    font-family: Calibri;
+                    font-size: 15px;
+                    border: 0px;
+                    padding-top: 25px;
+                    padding-bottom: 25px;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                    vertical-align: middle;
+                    transition: background-color 0.35s;
+                    
+                }
+                .resumecv-button:hover {
+                    color:rgb(255, 255, 255);
+                    background-color:rgb(47, 50, 70, 0.505);
+
+                }
+                .projects-button {
+                    cursor: pointer;
+                    background-color:black;
+                    color: aliceblue;
+                    font-family: Calibri;
+                    font-size: 15px;
+                    border: 0px;
+                    padding-top: 25px;
+                    padding-bottom: 25px;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                    vertical-align:middle;
+                    transition: background-color 0.35s;
+                }
+                .projects-button:hover {
+                    color:rgb(255, 255, 255);
+                    background-color:rgba(47, 50, 70, 0.505);
+                }
+
+            </style>
+
+
+            <button class = "resumecv-button" 
+            height = "55"
+            onclick = "location.href = 'files/Vanessa_Kwong_CV.pdf';"
+            style = "display:inline-block">
+                Resume / CV
+            </button>
+
+
+
+            <button class = "projects-button"
+            height = "55"
+            onclick = "location.href = 'projects.html';"
+            style = "display: inline-block;">
+            
+                Projects
+            </button>    
+        </div>
+
+        <div class="projects-midesction" style = "background:linear-gradient(to bottom, #d1ebf9 0%, #ffffff 100%);">
+            <br>
+            <h2>Projects</h2>
+            <br>
+        </div>
+
+
+
+        <!--BOTTOM PORTION-->
+        <div class = "bottom-portion" 
+        style = "background-color: black; 
+        padding:20px;
+        box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.4) inset;"
+        >
+            <style>
+                .linkedin-button, .github-button {
+                    display:inline-block;
+                    cursor: pointer;
+                    background-color:black;
+                    color: rgb(157, 169, 180);
+                    font-family: Calibri;
+                    font-size: 15px;
+                    border: 0px;
+                    padding: 15px;
+                    vertical-align:middle;
+                    transition: color 0.35s;
+                }
+                .linkedin-button:hover, .github-button:hover {
+                    color:rgb(255, 255, 255);
+                }
+            </style>
+
+            <form>
+                <button class = linkedin-button
+                height = "30"
+                formaction="https://linkedin.com/in/vanessa-ch/">
+                    Linkedin
+                </button>
+            </form>
+
+            <form>
+                <button class = github-button
+                height = "30"
+                formaction = "https://github.com/veecarling">
+                    GitHub
+                </button>
+            </form>
+
+            <style>
+                .bottom-rule{
+                    background-color:rgb(65, 67, 84);
+                    height: 1px;
+                    border:none;
+                }
+            </style>
+
+            <hr class = "bottom-rule">
+
+            <style>
+                .copyright-footer{
+                    padding-bottom: 15px;
+                    background-color: black;
+                    color: rgb(65, 67, 84);
+                    font-family: Garamond;
+                }
+            </style>
+    
+            <footer class = "copyright-footer" >
+                <b>&copy; Copyright 2024 Vanessa Kwong</b>
+            </footer>
+
+        </div>
+
+    </body>
+</html>
