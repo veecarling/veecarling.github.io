@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en">
 
-    <!--HEADER-->
+    <!-- HEADER -->
 
     <head>
         <meta charset = "utf-8">
@@ -17,6 +17,8 @@
         <style type = "text/css">
             body {
                 margin: 0px;
+                align-items: center;
+                
             }
         </style>
     </head>
@@ -30,10 +32,10 @@
         #nav{
             left: 0%;
             right: 0%;
-            background-color: white;
+            background-color: rgb(0, 0, 0);
             position: fixed;
             display: block;
-            box-shadow: 2px 2px 5px rgba(112, 128, 150, 0.8);
+            box-shadow: 2px 2px 5px rgba(23, 33, 48, 0.8);
             padding-top: 15px;
         
         }
@@ -51,7 +53,7 @@
         }
         
         .nav-item{
-            color:black;
+            color:rgb(255, 255, 255);
             align-content: right;
             font-family: Calibri;
             display:block;
@@ -86,12 +88,13 @@
             <a href="files/Vanessa_Kwong_CV.pdf" class = "nav-item left"> RESUME / CV </a>
 		</div>
 
+       
         <!--INTRO PORTION-->
 
         <style> 
             .intro-portion {
-                background: #211263;
-                background: radial-gradient(at right top, #211263, #58A1CC);
+                background-image: url("images/sbkg.jpg");
+                background-color: #cccccc;
                 width: 100%;
 		        height: 100vh;
 		        color: white;
@@ -115,14 +118,13 @@
                     height: 30vh;
                 }
                 .intro-header {
-                    font-family: serif;
-                    font-weight: bold;
+                    font-family: Helvetica;
                     font-size:4vw; 
                     text-align: justify;
                     display: inline-block;
                 }
                 .intro-subheader {
-                    font-family: serif;
+                    font-family: Helvetica;
                     font-size: 30px;
                     text-align: center;
                     margin-left: 30px;
@@ -140,6 +142,7 @@
                     display:flex; 
                     vertical-align: middle;
                     flex-direction: column;
+                    text-decoration: none;
                 }
                 .intro-content {
                     padding: 40px;
@@ -161,12 +164,12 @@
                     background-repeat: no-repeat;
                     overflow: hidden;
                     border: 0;
+                    text-decoration: none;
+                    padding: 5px;
 
 
                 }
-                .contact-button:hover{
-                    
-                }
+
             </style>
 
             <div class = "intro-content">
@@ -177,21 +180,28 @@
                 </div>
                 <div class="intro-profile">
                     <h2 class = "intro-header" >
-                        <i>Vanessa Kwong</i>
+                        Vanessa Kwong
                     </h2>
                     <div class="intro-contact">
 
-                        <a id="contact-button" title="LinkedIn"
-                        href="https://www.linkedin.com/in/vanessa-ch/" onclick="MyFunction();return false;">
+                        <a id="contact-button" 
+                        href="mailto: shirleenksl@gmail.com" onclick="MyFunction();return false;">
                             <button class="contact-button" ></button>
-                                <img src="images/linkedin.png" height="50">
+                                <img src="images/mail.png" height="40">
                             </button>
                         </a>
 
-                        <a id="contact-button" title="GitHub"
+                        <a id="contact-button" 
+                        href="https://www.linkedin.com/in/vanessa-ch/" onclick="MyFunction();return false;">
+                            <button class="contact-button" ></button>
+                                <img src="images/linkedin.png" height="40">
+                            </button>
+                        </a>
+
+                        <a id="contact-button" 
                         href="https://github.com/veecarling" onclick="MyFunction();return false;">
                             <button class="contact-button" ></button>
-                                <img src="images/github-dark.png" height="50">
+                                <img src="images/github.png" height="40">
                             </button>
                         </a>
 
@@ -214,29 +224,27 @@
         <!--DETAIL PORTION-->
         <style>
             .detail-portion {
-                background: rgb(122,161,255);
-background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 100%);
+                background-color: #fafafc;
                 display: flex;  
                 width: 100%;  
                 align-content: center;  
                 flex-direction: column; 
-                align-items: center;        
+                align-items: center; 
+
+
             }
             .subheader {
-                font-family: serif;
+                font-family: Helvetica;
                 font-size: 35px; 
-                padding-bottom: -30px;                   
+                padding:30px;                   
                 text-align: center;
-                padding-left: 30px;
-                padding-right: 30px;
                 display: flex;
+                font-style: italic;
             }
             .subsubheader {
                 font-family: Helvetica;
                 font-size: 27px;                  
                 text-align: center;
-                padding-left: 50px;
-                padding-right: 50px;
                 display: flex;
                 color: rgb(59, 67, 79);
             }
@@ -244,18 +252,17 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                 font-family: Helvetica;
                 font-size: 25px;                  
                 text-align: center;
-                padding-left: 50px;
-                padding-right: 50px;
                 display: flex;
-                color: rgb(59, 67, 79);
+                color: rgb(212, 229, 255);
                 align-items: center;
+                padding: 5px;
             }
             .detail-text {
                 font-family: Helvetica;
-                font-size: 2.5vh;
+                font-size: 2.25vh;
                 text-align: center;
-                padding-left: 25vw;
-                padding-right:25vw;
+                padding-left: 17%;
+                padding-right: 17%;
                 align-items: center;
 		        padding-bottom:3px;
                 line-height: 3vh;
@@ -271,8 +278,8 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                 font-size: 15px;
                 text-transform: uppercase;
                 text-align: center;
-                color: #090b3a;
-                background: #a4bcff;
+                color: #fbfbfc;
+                background: #04070e;
                 cursor: pointer;
                 transition: all 0.35s ease-out;
                 vertical-align: middle;
@@ -280,14 +287,14 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
 
             }
             .lbl-toggle:hover {
-                color: #060c1b;
-                background-color: #95a3ec57;
+                color: #c0cdf0;
+                background-color: #1f243a;
             }
             .collapsible-content .content-inner {
                 background: rgb(220, 229, 254);
-                border-bottom: 2px solid rgb(72, 66, 250);
-                padding-top: 10px;
-                padding-bottom: 10px;
+                border-bottom: 2px solid rgb(245, 245, 248);
+                padding: 10px;
+
             }
             .collapsible-content {
                 max-height: 0px;
@@ -298,13 +305,14 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                 max-height: 100vh;
             } 
             .detail-portion2{
-                background-color: #ffffff;
+                background-color: #16151a;
                 display: flex;  
                 width: 100%;  
                 align-content: center;  
                 flex-direction: column; 
                 align-items: center;
                 line-height: 25px;
+                color:#e2e2f3;
             }
             .school{
                 display: flex;
@@ -318,29 +326,23 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
             .detail-img{
                 width: 80%;
                 display: inline-block;
-                padding: 25px;
                 align-self: center;
-                margin-left: 10%;
+                padding: 5px;
             
             }
         </style>
 
         <!--EDUCATION TEXT-->
         <div class = "detail-portion" >  
-            <h2 class = "subheader"><i>Education</i></h2>
+            <h2 class = "subheader">Education</h2>
             <img class = "ucr" src="images/ucr.png">
             <div class="school">
                 <h2 style="font-family: Helvetica;">University of California, Riverside</h2>
-                <h2 style="font-family:Helvetica">B.S. Physics (Standard)</h3>
+                <h2 style="font-family:Helvetica">B.S. Physics </h3>
                 <h3 style="font-family:Helvetica">Expected graduation: April 2025</h4>
             </div>
             
             <p class = "detail-text">
-                I am currently pursuing a Bachelor of Science (BS) degree
-                in Physics with a standard concentration at University of 
-                California, Riverside.
-                <br>
-                <br>
                 My first three years in university was spent towards a 
                 degree in biology on a pre-medicine route. By the beginning of
                 my fourth year, I have found even greater interest in being on the forefront through research over application 
@@ -348,12 +350,11 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                 specific fields of physics through various upper-division courses and research, 
                 eventually switching to the major.
             </p>
-		
             <!--EXPANDABLE RELEVANT COURSEWORK-->
             <div class="wrap-collapsible"> 
                 <input id="collapsible2" class="toggle" type="checkbox"> 
                     <label for="collapsible2" class="lbl-toggle">
-                        <h3 class="sub3header">
+                        <h3 style="font-family:Helvetica; padding-left: 10px;">
                             <b>Relevant Coursework</b>
                         </h3>
                     </label>
@@ -373,8 +374,6 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                             <li> <b> *PHYS 156A</b> Quantum Mechanics</li>
                             <li> <b> PHYS 177 </b> Computational Methods for Physical Sciences</li>
                         </ul>
-                        <br>
-                    
                         <h4 class = "sub3header"><i>Life Sciences</i></h4>
                         <ul style = "font-size:15px; font-family: Helvetica">
                             <li><b>CHEM 8A - C</b> Organic Chemistry</li>
@@ -383,8 +382,6 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
                             <li><b> CBNS 101</b> Fundamentals of Cell Biology</li>
                             <li><b>CBNS 106</b> Introduction to Neuroscience</li>
                         </ul>
-                     
-                        <br>
                         <h4 class = "sub3header"><i>Other</i></h4>
                         <ul style = "font-size:15px; font-family: Helvetica">
                             <li><b>CS 10A</b> Introductory Computer Science (C++)</li>
@@ -397,7 +394,7 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
         </div>
 	<!--EXPERIENCE-->
         <div class="detail-portion2">
-            <h2 class = "subheader"> <i>Research Experience & Interests </i></h2>
+            <h2 class = "subheader"> Research Experience & Interests </h2>
             <p class = "detail-text">
                 In my final years of my undergraduate degree, I have been working 
                 as an undergraduate researcher in experimental 
@@ -419,75 +416,79 @@ background: linear-gradient(90deg, rgba(122,161,255,1) 0%, rgba(255,255,255,1) 1
             <br>
         </div>
 
-        <!--BOTTOM PORTION-->
-        <style>
-            .bottom-portion{
-                background-color: black; 
-                width: 100%;
-            }
-        </style>
-        <div class = "bottom-portion" >
-            <style>
-                .linkedin-button, .github-button {
-                    display:flex;
-                    cursor: pointer;
-                    background-color:black;
-                    color: rgb(157, 169, 180);
-                    font-family: Helvetica;
-                    font-size: 25px;
-                    border: 0px;
-                    padding: 15px;
-                    vertical-align:middle;
-                    transition: color 0.35s;
-                }
-                .linkedin-button:hover, .github-button:hover {
-                    color:rgb(255, 255, 255);
-                }
-                .bottom-buttons {
-                    display:flex;
-                }
-            </style>
+ <!--BOTTOM PORTION-->
+ <style>
+    .bottom-portion{
+        background-color: black; 
+        width: 100%;
+        overflow: hidden;
+    }
+</style>
+<div class = "bottom-portion" >
+    <style>
+        .linkedin-button, .github-button {
+            display:flex;
+            cursor: pointer;
+            background-color:black;
+            color: rgb(157, 169, 180);
+            font-family: Helvetica;
+            font-size: 20px;
+            border: 0px;
+            margin: 15px;
+            padding-left: 15px;
+            vertical-align:middle;
+            transition: color 0.35s;
+            flex-direction: row;
+            
+        }
+        .linkedin-button:hover, .github-button:hover {
+            color:rgb(255, 255, 255);
+        }
+        .bottom-buttons {
+            display:flex;
+        }
+    </style>
 
-            <form class="bottom-buttons">
-                <button class = linkedin-button
-                height = "30"
-                formaction="https://linkedin.com/in/vanessa-ch/">
-                    Linkedin
-                </button>
-            </form>
+    <form class="bottom-buttons">
+        <button class = linkedin-button
+        height = "30"
+        formaction="https://linkedin.com/in/vanessa-ch/">
+            Linkedin
+        </button>
+    </form>
 
-            <form class = "bottom-buttons">
-                <button class = github-button
-                height = "30"
-                formaction = "https://github.com/veecarling">
-                    GitHub
-                </button>
-            </form>
+    <form class = "bottom-buttons">
+        <button class = github-button
+        height = "30"
+        formaction = "https://github.com/veecarling">
+            GitHub
+        </button>
+    </form>
 
-            <style>
-                .bottom-rule{
-                    background-color:rgb(65, 67, 84);
-                    height: 1px;
-                    border:none;
-                }
-            </style>
+    <style>
+        .bottom-rule{
+            background-color:rgb(65, 67, 84);
+            height: 1px;
+            border:none;
+        }
+    </style>
 
-            <hr class = "bottom-rule">
+    <hr class = "bottom-rule">
 
-            <style>
-                .copyright-footer{
-                    padding: 15px;
-                    background-color: black;
-                    color: rgb(65, 67, 84);
-                    font-family: Helvetica;
-                }
-            </style>
-    
-            <footer class = "copyright-footer" >
-                <b>&copy; Copyright 2024 Vanessa Kwong</b>
-            </footer>
+    <style>
+        .copyright-footer{
+            padding: 15px;
+            background-color: black;
+            color: rgb(65, 67, 84);
+            font-family: Helvetica;
+        }
+    </style>
 
-        </div>
+    <footer class = "copyright-footer" >
+        <b>&copy; Copyright 2024 Vanessa Kwong</b>
+    </footer>
+
+</div>
 
     </body>
 </html>
