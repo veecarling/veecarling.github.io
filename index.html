@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+    <!-- HEADER -->
+
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale = 0.41, maximum-scale = 1" />
+        <meta name = "description" content = "Vanessa Kwong portfolio">
+        <meta name = "keywords" content = "Vanessa Kwong, UC Riverside, UCR">
+        <meta name = "author" content = "Vanessa Kwong">
+
+        <title>Vanessa Kwong</title>
+
+        <link rel = "icon" href = "images/logo.png">
+
+        <style type = "text/css">
+            @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+            body {
+                margin: 0px;
+                align-items: center;
+                font-family:'Poppins', sans-serif;
+
+                
+            }
+        </style>
+    </head>
+
+    <!--BODY-->
+    <body>
+
+        <!--NAVIGATION BAR-->
+        <style>
+
+        #nav{
+            left: 0%;
+            right: 0%;
+            background-color: rgb(0, 0, 0);
+            position: fixed;
+            display: block;
+            box-shadow: 2px 2px 5px rgba(23, 33, 48, 0.8);
+            padding-top: 15px;
+        
+        }
+        
+        .nav-item:first-child{
+            float: left;
+            display: flex;
+            font-family: Helvetica;
+            font-size:25px;
+            vertical-align: middle;
+            align-content: center;
+            margin-left: 30px;
+            margin-top: -20px;
+
+        }
+        
+        .nav-item{
+            color:rgb(255, 255, 255);
+            align-content: right;
+            font-family: Calibri;
+            display:block;
+            padding-right: 4vw;
+            font-size:20px; 
+            float: right;
+            text-decoration: none;
+        }
+        
+        .nav-item:hover:after{
+            transform: scaleX(1);
+        }
+        
+        .nav-item::after{
+            display: block;
+            content: '';
+            border-bottom: solid 3px rgb(196, 226, 255);
+            transform: scaleX(0) ;
+            transition: 350ms ease-in-out;
+            transform-origin: 0% 50%;
+        }
+
+        </style>
+
+		<div id="nav">
+			<a href="index.html" class="nav-item right">
+                <p>VANESSA KWONG </p>
+            </a>
+
+			<a href="projects-old.html" class="nav-item left">PROJECTS</a>
+
+            <a href="files/Vanessa_Kwong_CV.pdf" class = "nav-item left"> RESUME / CV </a>
+		</div>
+
+       
+        <!--INTRO PORTION-->
+
+        <style> 
+            .intro-portion {
+                background-image: url("images/sbkg.jpg");
+                background-color: #cccccc;
+                width: 100%;
+		        height: 100vh;
+		        color: white;
+                align-items: center;
+		        background-size:cover;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-position: absolute;
+                }
+        </style>
+
+        <div class = "intro-portion">
+            <style>
+                .profile-photo {
+                    border-radius: 30%;
+                    border-width: 3px;
+                    display: inline-block;
+                    padding: 20px; 
+                    margin-top: 70px;
+                    height: 30vh;
+                }
+                .intro-header {
+                    font-family:'Poppins', sans-serif;
+                    font-size:4vw; 
+                    text-align: justify;
+                    display: inline-block;
+                }
+                .intro-subheader {
+                    font-family:'Poppins', sans-serif;
+                    font-size: 30px;
+                    text-align: center;
+                    margin-left: 30px;
+                
+                }
+                .intro-text {
+                    font-family:'Poppins', sans-serif;
+                    text-align: center;
+                    margin-left: 45px;
+                    margin-right: 45px;
+                    line-height: 2.5vh;
+                    font-size:2vh;
+                }
+                .intro-profile{
+                    display:flex; 
+                    vertical-align: middle;
+                    flex-direction: column;
+                    text-decoration: none;
+                }
+                .intro-content {
+                    padding: 40px;
+                    display: flex;
+                    align-items: center;
+                }
+                .profile-content{
+                    display:flex;
+                    flex-direction:row;
+                    vertical-align: middle;
+                }
+                .intro-contact{
+                    display:flex;
+                    flex-direction: row;
+                }
+                .contact-button{
+                    cursor: pointer;
+                    background-color: transparent;
+                    background-repeat: no-repeat;
+                    overflow: hidden;
+                    border: 0;
+                    text-decoration: none;
+                    padding: 5px;
+
+
+                }
+
+            </style>
+
+            <div class = "intro-content">
+                <div class="profile-content">
+                    <img class = "profile-photo" src = "images/profilephoto.jpg" 
+                    alt = "Profile Photo"
+                    >
+                </div>
+                <div class="intro-profile">
+                    <h2 class = "intro-header" >
+                        Vanessa Kwong
+                    </h2>
+                    <div class="intro-contact">
+
+                        <a id="contact-button" 
+                        href="mailto: shirleenksl@gmail.com" onclick="MyFunction();return false;">
+                            <button class="contact-button" ></button>
+                                <img src="images/mail.png" height="40">
+                            </button>
+                        </a>
+
+                        <a id="contact-button" 
+                        href="https://www.linkedin.com/in/vanessa-ch/" onclick="MyFunction();return false;">
+                            <button class="contact-button" ></button>
+                                <img src="images/linkedin.png" height="40">
+                            </button>
+                        </a>
+
+                        <a id="contact-button" 
+                        href="https://github.com/veecarling" onclick="MyFunction();return false;">
+                            <button class="contact-button" ></button>
+                                <img src="images/github.png" height="40">
+                            </button>
+                        </a>
+
+                    </div>
+                </div>
+               
+            </div>
+            <hr style="margin-left:50px;margin-right: 50px; background-color: #d1ebf9;">
+            <h2 class = "intro-subheader"> <i>About Me</i></h2>
+            <p class = "intro-text">I am a fifth-year student and research assistant at University of California, Riverside, 
+                pursuing a bachelors in Physics. My laboratory experience consists of both team-based and independent research projects in 
+                experimental condensed matter physics during my time in university, as well as microbiology prior.
+                <br>
+                <br> 
+                With additional internship, lab, and industry experiences, I hope to continue in 
+                the field of condensed matter physics, materials science & engineering, or a related area of study.
+            </p>
+        </div>
+
+        <!--DETAIL PORTION-->
+        <style>
+            .detail-portion {
+                background-color: #fafafc;
+                display: flex;  
+                width: 100%;  
+                align-content: center;  
+                flex-direction: column; 
+                align-items: center; 
+
+
+            }
+            .subheader {
+                
+                font-size: 35px; 
+                padding:30px;                   
+                text-align: center;
+                display: flex;
+                font-style: italic;
+            }
+            .subsubheader {
+                
+                font-size: 27px;                  
+                text-align: center;
+                display: flex;
+                color: rgb(59, 67, 79);
+            }
+            .sub3header {
+                
+                font-size: 25px;                  
+                text-align: center;
+                display: flex;
+                color: rgb(212, 229, 255);
+                align-items: center;
+                padding: 5px;
+            }
+            .detail-text {
+                
+                font-size: 2.25vh;
+                text-align: center;
+                padding-left: 17%;
+                padding-right: 17%;
+                align-items: center;
+		        padding-bottom:3px;
+                line-height: 3vh;
+            }
+            input[type='checkbox'] {
+                display: none;
+            }
+            .lbl-toggle {
+                display: flex;
+                padding-top: 2px;
+                padding-bottom: 2px;
+                font-weight: bold;
+                font-size: 15px;
+                text-transform: uppercase;
+                text-align: center;
+                color: #fbfbfc;
+                background: #04070e;
+                cursor: pointer;
+                transition: all 0.35s ease-out;
+                vertical-align: middle;
+                line-height: 25px;
+
+            }
+            .lbl-toggle:hover {
+                color: #c0cdf0;
+                background-color: #1f243a;
+            }
+            .collapsible-content .content-inner {
+                background: rgb(220, 229, 254);
+                border-bottom: 2px solid rgb(245, 245, 248);
+                padding: 10px;
+
+            }
+            .collapsible-content {
+                max-height: 0px;
+                overflow: hidden;
+                transition: max-height .35s ease-in-out;
+            }
+            .toggle:checked + .lbl-toggle + .collapsible-content {
+                max-height: 100vh;
+            } 
+            .detail-portion2{
+                background-color: #16151a;
+                display: flex;  
+                width: 100%;  
+                align-content: center;  
+                flex-direction: column; 
+                align-items: center;
+                line-height: 25px;
+                color:#e2e2f3;
+            }
+            .school{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .ucr{
+                height:105px;
+                display: inline-block;
+            }
+            .detail-img{
+                width: 80%;
+                display: inline-block;
+                align-self: center;
+                padding: 5px;
+            
+            }
+        </style>
+
+        <!--EDUCATION TEXT-->
+        <div class = "detail-portion" >  
+            <h2 class = "subheader">Education</h2>
+            <img class = "ucr" src="images/ucr.png">
+            <div class="school">
+                <h2 style="font-family: Helvetica;">University of California, Riverside</h2>
+                <h2 style="font-family:Helvetica">B.S. Physics </h3>
+                <h3 style="font-family:Helvetica">Expected graduation: April 2025</h4>
+            </div>
+            
+            <p class = "detail-text">
+                My first three years in university was spent towards a 
+                degree in biology on a pre-medicine route. By the beginning of
+                my fourth year, I had found even greater interest in being on the forefront 
+                of research and studying these processes and interactions at an atomic level. 
+                Through initially declaring a minor in physics, I explored 
+                specific fields of physics through various upper-division courses and research, 
+                eventually switching to the major.
+            </p>
+            <!--EXPANDABLE RELEVANT COURSEWORK-->
+            <div class="wrap-collapsible"> 
+                <input id="collapsible2" class="toggle" type="checkbox"> 
+                    <label for="collapsible2" class="lbl-toggle">
+                        <h3 style="font-family:Helvetica; padding-left: 10px;">
+                            <b>Relevant Coursework</b>
+                        </h3>
+                    </label>
+                <div class="collapsible-content">
+                    <div class="content-inner">
+                        
+                        <p class="detail-text">* <i>In Progress</i></p>
+                        <h3 class = "subsubheader"><i>Physics</i></h4>
+                        <ul style = "font-size:15px; font-family: Helvetica">
+                            <li> <b> PHYS 111</b> Astrophysics & Stellar Astronomy</li>
+                            <li> <b>PHYS 130A & 130B</b> Classical Mechanics </li>
+                            <li><b>PHYS 132</b> Thermodynamics & Statistical Mechanics</li>
+                            <li> <b>PHYS 135A & 135B</b> Electricity & Magnetism</li>
+                            <li> <b>PHYS 136</b> Electromagnetic Waves</li>
+                            <li> <b> PHYS 139L</b> Electronics Laboratory</li>
+                            <li> <b> *PHYS 142W</b> Advanced Physics Laboratory</li>
+                            <li> <b> PHYS 150A</b> Introduction to Condensed Matter Physics</li>
+                            <li> <b> *PHYS 156A</b> Quantum Mechanics</li>
+                            <li> <b> PHYS 177 </b> Computational Methods for Physical Sciences</li>
+                        </ul>
+                        <h4 class = "subsubheader"><i>Life Sciences</i></h4>
+                        <ul style = "font-size:15px; font-family: Helvetica">
+                            <li><b>CHEM 8A - C</b> Organic Chemistry</li>
+                            <li><b>BCH 100</b> Introductory Biochemistry</li>
+                            <li><b>BIOL 102</b> Introductory Genetics</li>
+                            <li><b>BIOL 176</b>Comparative Biomechanics</li>
+                            <li><b> CBNS 101</b> Fundamentals of Cell Biology</li>
+                            <li><b>CBNS 106</b> Introduction to Neuroscience</li>
+                        </ul>
+                        <h4 class = "subsubheader"><i>Other</i></h4>
+                        <ul style = "font-size:15px; font-family: Helvetica">
+                            <li><b>CS 10A</b> Introductory Computer Science (C++)</li>
+                          
+                        </ul>
+                    </div>
+                </div>
+            </div> 
+            <br>
+            <br>   
+        </div>
+	<!--EXPERIENCE-->
+        <div class="detail-portion2">
+            <h2 class = "subheader"> Research Experience & Interests </h2>
+            <p class = "detail-text">
+                In my final years of my undergraduate degree, I have been working 
+                as an undergraduate researcher in experimental 
+                condensed matter, focusing on transport and optical properties of 
+                two-dimensional materials within heterostructure devices. 
+                <br>
+                <img class="detail-img" src="images/transfer-stage-1.jpg">
+                <br>
+                Through extensive laboratory and research 
+                experience, I have become an adaptable and dedicated researcher, 
+                especially driven by my fascination and curiosity to understand and 
+                expand the novelty in science behind modern technological advancements.
+                <br>
+                <br>
+                Having pivoted from an 
+                academic and research background in biological sciences, I have 
+                a profound interest in multidisciplinary research and 
+                a desire to help in overcoming conventionally steep learning curves.
+            </p>
+            <br>
+        </div>
+
+ <!--BOTTOM PORTION-->
+ <style>
+    .bottom-portion{
+        background-color: black; 
+        width: 100%;
+        overflow: hidden;
+    }
+</style>
+<div class = "bottom-portion" >
+    <style>
+        .linkedin-button, .github-button {
+            display:flex;
+            cursor: pointer;
+            background-color:black;
+            color: rgb(157, 169, 180);
+            font-family:'Poppins', sans-serif;
+            font-size: 20px;
+            border: 0px;
+            margin: 15px;
+            padding-left: 15px;
+            vertical-align:middle;
+            transition: color 0.35s;
+            flex-direction: row;
+            
+        }
+        .linkedin-button:hover, .github-button:hover {
+            color:rgb(255, 255, 255);
+        }
+        .bottom-buttons {
+            display:flex;
+        }
+    </style>
+
+    <form class="bottom-buttons">
+        <button class = linkedin-button
+        height = "30"
+        formaction="https://linkedin.com/in/vanessa-ch/">
+            Linkedin
+        </button>
+    </form>
+
+    <form class = "bottom-buttons">
+        <button class = github-button
+        height = "30"
+        formaction = "https://github.com/veecarling">
+            GitHub
+        </button>
+    </form>
+
+    <style>
+        .bottom-rule{
+            background-color:rgb(65, 67, 84);
+            height: 1px;
+            border:none;
+        }
+    </style>
+
+    <hr class = "bottom-rule">
+
+    <style>
+        .copyright-footer{
+            padding: 15px;
+            background-color: black;
+            color: rgb(65, 67, 84);
+
+        }
+    </style>
+
+    <footer class = "copyright-footer" >
+        <b>&copy; Copyright 2024 Vanessa Kwong</b>
+    </footer>
+
+</div>
+
+    </body>
+</html>

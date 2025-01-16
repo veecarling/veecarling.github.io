@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+    <!-- HEADER -->
+
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale = 0.41, maximum-scale = 1" />
+        <meta name = "description" content = "Vanessa Kwong portfolio">
+        <meta name = "keywords" content = "Vanessa Kwong, UC Riverside, UCR">
+        <meta name = "author" content = "Vanessa Kwong">
+
+        <title>Vanessa Kwong</title>
+
+        <link rel = "icon" href = "images/logo.png">
+
+        <style type = "text/css">
+            body {
+                margin: 0px;
+                padding: 0px;
+            }
+        </style>
+    </head>
+
+    <!--BODY-->
+    <body>
+
+        <!--NAVIGATION BAR-->
+        <style>
+
+        #nav{
+            left: 0%;
+            right: 0%;
+            background-color: rgb(0, 0, 0);
+            position: fixed;
+            display: block;
+            box-shadow: 2px 2px 5px rgba(10, 13, 17, 0.8);
+            padding-top: 15px;
+        
+        }
+        
+        .nav-item:first-child{
+            float: left;
+            display: flex;
+            font-family: Helvetica;
+            font-size:25px;
+            vertical-align: middle;
+            align-content: center;
+            margin-left: 30px;
+            margin-top: -20px;
+
+        }
+        
+        .nav-item{
+            color:rgb(255, 255, 255);
+            align-content: right;
+            font-family: Calibri;
+            display:block;
+            padding-right: 4vw;
+            font-size:20px; 
+            float: right;
+            text-decoration: none;
+        }
+        
+        .nav-item:hover:after{
+            transform: scaleX(1);
+        }
+        
+        .nav-item::after{
+            display: block;
+            content: '';
+            border-bottom: solid 3px rgb(196, 226, 255);
+            transform: scaleX(0) ;
+            transition: 350ms ease-in-out;
+            transform-origin: 0% 50%;
+        }
+
+        </style>
+
+		<div id="nav">
+			<a href="index.html" class="nav-item right">
+                <p>VANESSA KWONG </p>
+            </a>
+
+			<a href="projects.html" class="nav-item left">PROJECTS</a>
+
+            <a href="files/Vanessa_Kwong_CV.pdf" class = "nav-item left"> RESUME / CV </a>
+		</div>
+
+       <!--PROJECTS-->
+       <style>
+        .projects{
+            background: rgb(38,60,93);
+background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
+            padding-top: 85px;
+            padding-bottom: 50px;
+            color: aliceblue;
+
+        }
+            .subheader {
+                font-family: Helvetica;
+                font-size: 50px;                    
+                text-align: center;
+                margin-top: 40px;
+                display: block;
+                
+            }
+            .subsubheader {
+                font-family: Helvetica;
+                font-size: 30px;                  
+                text-align: center;
+                display: block;
+                color: rgb(173, 206, 255);
+                font-weight: bold;
+            }
+            .sub3header {
+                font-family: Helvetica;
+                font-size: 25px;                  
+                text-align: center;
+                padding-left: 50px;
+                padding-right: 50px;
+                display: flex;
+                color: rgb(254, 254, 255);
+                align-items: center;
+            }
+            .detail-text {
+                font-family: Helvetica;
+                font-size: 2vh;
+                text-align: center;
+                padding-left: 130px;
+                padding-right: 130px;
+                align-items: center;
+		        padding-bottom:3px;
+                line-height: 3vh;
+            }
+            .hr {
+                margin-left:50px;
+                margin-right: 50px; 
+                margin-top: 30px; 
+                margin-bottom: 30px; 
+                background-color: #02080c;
+
+            }
+            .link {
+                color:rgb(214, 235, 255);
+            }
+
+       </style>
+
+       <div class = "projects">
+            <div class="subheader"> <b><i>Projects</i></b></div>
+            <hr  class="hr">
+            <div class = "subsubheader"> Pulsed Nuclear Magnetic Resonance</div>
+            <br>
+                <div class = "detail-text">
+                    This project was finished for the capstone laboratory course , <b>PHYS 142W</b>, at UC Riverside</a>. 
+                    <br><br>
+                    Description Here
+                    <br><br>
+                    <img src="images/pnmr.jpg" width="50%" style="align-items: center;">
+                    <br><br>
+                    My final report can be found <a class="link" href="files/Pulsed_Nuclear_Magnetic_Resonance.pdf"><b>here</b></a>. 
+                </div>
+
+                <hr class="hr">
+            <div class = "subsubheader"> Gamma Ray Emission Fom Radioactive Isobars</div>
+            <br>
+                <div class = "detail-text">
+                    This project was finished for the capstone laboratory course , <b>PHYS 142W</b>, at UC Riverside</a>. 
+                    <br><br>
+                    Description Here
+                    <br><br>
+                    <img src="images/gamma-ray.jpg" width="50%" style="align-items: center;">
+                    <br><br>
+                    My final report can be found <a class="link" href="files/Gamma_Ray_Emission_from_Radioactive_Isobars.pdf"><b>here</b></a>. 
+                </div>
+
+                <hr class="hr">
+            <div class = "subsubheader"> Noise Fundamentals</div>
+            <br>
+                <div class = "detail-text">
+                    This project was finished for the capstone laboratory course , <b>PHYS 142W</b>, at UC Riverside</a>. 
+                    <br><br>
+                    In the process of data collection and experimentation, there is often interference or an unwanted
+                    signal that affects the collected numerical or observational results, defined as noise. Here, we examine two types of common noise: 
+                    Johnson noise, which is caused by thermal interference in electron flux during flow, and Shot noise, which is caused by a difference in electrical charge.
+                    <br><br>
+                    <img src="images/noise-fund.jpg" width="50%" style="align-items: center;">
+                    <br><br>
+                    My final report can be found <a class="link" href="files/Noise_Fundamentals.pdf"><b>here</b></a>. 
+                </div>
+
+                <hr class="hr">
+                <div class = "subsubheader"> Developing Low Temperature Contacts in TMD Heterostructure Devices</div>
+                <br>
+                    <div class = "detail-text">
+                        This project was finished for the <a class="link" href="https://rise.ucr.edu/"><b>UC Riverside Research in Science and Engineering (RISE) Program</b></a>. 
+                        <br><br>
+                        Studies of two-dimensional (2D) Van der Waals (VdW) heterostructure devices have contributed significantly to novel optoelectronics advancements and correlated 
+                        quantum states at the atomic scale. WSe₂, a semiconducting transition metal dichalcogenide (TMD), has a direct bandgap when reduced to a monolayer, and can be 
+                        used for both optical and electrical measurements. However, a lack of reliable, low resistance electrical contacts to semiconducting 2D materials has hindered 
+                        careful electron transport studies and further development of optoelectronic devices. 
+                        <br><br>
+                        Here, we aim to develop reliable, Ohmic contacts by using pre-patterned 
+                        platinum contacts for p-type WSe₂ monolayers.
+                        <br><br>
+                        <img src="images/rise-dev.jpg" width="50%" style="align-items: center;">
+
+                        <br><br>
+                        The development of low temperature contacts will open up the possibility to measure Quantum Hall states with observable Shubnikov-de Haas (SdH) 
+                        oscillations and other quantum structures such as electrically controlled quantum dots and correlated states in TMD twisted heterostructures. Going forward, we will 
+                        try to develop contacts for other TMD materials to expand the available 2D materials for electronic studies and the development of efficient, silicon-based devices 
+                        among modern electronics.
+                        <br><br>
+                        My final report can be found <a class="link" href="files/Vanessa Kwong_RISE Final Paper.pdf"><b>here</b></a> 
+                        and oral presentation slides <a class="link" href="files/Vanessa-Kwong-RISE-Oral-Presentation.pdf"><b>here</b></a>.
+                        
+                    </div>
+
+                    <hr class="hr">
+                <div class = "subsubheader"> Developing Low Temperature Contacts in TMD Heterostructure Devices</div>
+                <br>
+                    <div class = "detail-text">
+                        This project was finished for the <a class="link" href="https://rise.ucr.edu/"><b>UC Riverside Research in Science and Engineering (RISE) Program</b></a>. 
+                        <br><br>
+                        Studies of two-dimensional (2D) Van der Waals (VdW) heterostructure devices have contributed significantly to novel optoelectronics advancements and correlated 
+                        quantum states at the atomic scale. WSe₂, a semiconducting transition metal dichalcogenide (TMD), has a direct bandgap when reduced to a monolayer, and can be 
+                        used for both optical and electrical measurements. However, a lack of reliable, low resistance electrical contacts to semiconducting 2D materials has hindered 
+                        careful electron transport studies and further development of optoelectronic devices. 
+                        <br><br>
+                        Here, we aim to develop reliable, Ohmic contacts by using pre-patterned 
+                        platinum contacts for p-type WSe₂ monolayers.
+                        <br><br>
+                        <img src="images/rise-dev.jpg" width="50%" style="align-items: center;">
+
+                        <br><br>
+                        The development of low temperature contacts will open up the possibility to measure Quantum Hall states with observable Shubnikov-de Haas (SdH) 
+                        oscillations and other quantum structures such as electrically controlled quantum dots and correlated states in TMD twisted heterostructures. Going forward, we will 
+                        try to develop contacts for other TMD materials to expand the available 2D materials for electronic studies and the development of efficient, silicon-based devices 
+                        among modern electronics.
+                        <br><br>
+                        My final report can be found <a class="link" href="files/Vanessa Kwong_RISE Final Paper.pdf"><b>here</b></a> 
+                        and oral presentation slides <a class="link" href="files/Vanessa-Kwong-RISE-Oral-Presentation.pdf"><b>here</b></a>.
+                        
+                    </div>
+
+                    <hr class="hr">
+
+                <div class = "subsubheader"> Optical Characterization of TMD Heterostructure Devices</div>
+                <br>
+                    <div class = "detail-text"> This project was completed for presentation at the <a class = "link" href = "https://engage.ucr.edu/research/symposium">
+
+                        <b>UC Riverside 
+                        Undergraduate Research and Creative Activities Symposium</b></a>. 
+                        <br><br>
+                        Silicon-based semiconductor devices have come to make many modern technological advances including transistors and photodetectors.  
+                        Two-dimensional (2D) van der Waals materials are of interest for fabricating even smaller devices because they can be mechanically 
+                        exfoliated to the atomically-thin limit.  One class of such materials, monolayer semiconducting transition metal dichalcogenides (TMDs), 
+                        are of particular interest for optoelectronic device applications due to their direct band gap.  Due to their spin-valley locking, TMDs 
+                        can make use of the additional valley degree of freedom.  
+                        <br><br>
+                        <img src="images/ugrs-dev.jpg" width="50%" style="align-items: center;">
+                        <br><br>
+                        We create and optically characterize the 
+                        electrically controllable WSe₂ and MoSe₂ monolayer transistor devices at room and cryogenic temperatures.  These devices will serve as the 
+                        basis for designing novel valleytronic devices, where photons can be stored and manipulated in both the spin and valley states.  
+                      
+                        <br><br>
+                        My oral presentation can be found 
+                        <a class = "link" href = "https://youtu.be/1-5c_JY-Y90?feature=shared"><b>here</b></a>.
+                        <br>
+                    </div>
+                    <hr class = "hr">
+
+                <div class = "subsubheader"> Bacterial Analysis and Effectiveness of Common Natural Preservatives</div>
+                <br>
+                    <div class="detail-text"> This project was completed as a <b>capstone reearch</b> for the  
+                        <b>PLTW Biomedical Sciences Pathway</b>. 
+                        <br><br>
+                        Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done on food items, comparing to use of
+                         several natural preservatives: honey, sugar, and salt in preventing bacterial growth over time.                        
+                    </div>
+                <br>    
+
+                <hr class="hr">
+
+                <div class = "subsubheader"> Bacterial Analysis and Effectiveness of Common Glove Materials</div>
+                <br>
+                    <div class="detail-text"> This project was completed for an evaluation of <b>3rd place Senior Microbiology Research Award</b> at the 
+                        <b>2018 Los Angeles County Science and Engineering Fair</b>,in representation of <b>Glen A. Wilson High School</b>. 
+                        <br>
+                        <br>
+                        Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done for glove materials latex, nitrile, 
+                        and vinyl to determine their effectiveness in preventing bacterial penetration in everyday use.
+                    </div>
+                <br>
+
+       </div>
+    
+
+
+        <!--BOTTOM PORTION-->
+        <style>
+            .bottom-portion{
+                background-color: black; 
+                width: 100%;
+            }
+        </style>
+        <div class = "bottom-portion" >
+            <style>
+                .linkedin-button, .github-button {
+                    display:flex;
+                    cursor: pointer;
+                    background-color:black;
+                    color: rgb(157, 169, 180);
+                    font-family: Helvetica;
+                    font-size: 25px;
+                    border: 0px;
+                    padding: 15px;
+                    vertical-align:middle;
+                    transition: color 0.35s;
+                }
+                .linkedin-button:hover, .github-button:hover {
+                    color:rgb(255, 255, 255);
+                }
+                .bottom-buttons {
+                    display:flex;
+                }
+            </style>
+
+            <form class="bottom-buttons">
+                <button class = linkedin-button
+                height = "30"
+                formaction="https://linkedin.com/in/vanessa-ch/">
+                    Linkedin
+                </button>
+            </form>
+
+            <form class = "bottom-buttons">
+                <button class = github-button
+                height = "30"
+                formaction = "https://github.com/veecarling">
+                    GitHub
+                </button>
+            </form>
+
+            <style>
+                .bottom-rule{
+                    background-color:rgb(65, 67, 84);
+                    height: 1px;
+                    border:none;
+                }
+            </style>
+
+            <hr class = "bottom-rule">
+
+            <style>
+                .copyright-footer{
+                    padding: 15px;
+                    background-color: black;
+                    color: rgb(65, 67, 84);
+                    font-family: Helvetica;
+                }
+            </style>
+    
+            <footer class = "copyright-footer" >
+                <b>&copy; Copyright 2024 Vanessa Kwong</b>
+            </footer>
+
+        </div>
+
+    </body>
+</html>
