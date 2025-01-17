@@ -2,32 +2,27 @@
 <html lang = "en">
 
     <!-- HEADER -->
-
     <head>
         <meta charset = "utf-8">
         <meta name = "viewport" content = "width=device-width, initial-scale = 0.41, maximum-scale = 1" />
         <meta name = "description" content = "Vanessa Kwong portfolio">
         <meta name = "keywords" content = "Vanessa Kwong, UC Riverside, UCR">
         <meta name = "author" content = "Vanessa Kwong">
-
         <title>Vanessa Kwong</title>
-
         <link rel = "icon" href = "images/logo.png">
-
         <style type = "text/css">
             body {
                 margin: 0px;
                 padding: 0px;
+                font-family: Helvetica;
             }
         </style>
     </head>
 
     <!--BODY-->
     <body>
-
         <!--NAVIGATION BAR-->
         <style>
-
         #nav{
             left: 0%;
             right: 0%;
@@ -36,9 +31,7 @@
             display: block;
             box-shadow: 2px 2px 5px rgba(10, 13, 17, 0.8);
             padding-top: 15px;
-        
         }
-        
         .nav-item:first-child{
             float: left;
             display: flex;
@@ -48,9 +41,7 @@
             align-content: center;
             margin-left: 30px;
             margin-top: -20px;
-
         }
-        
         .nav-item{
             color:rgb(255, 255, 255);
             align-content: right;
@@ -61,11 +52,9 @@
             float: right;
             text-decoration: none;
         }
-        
         .nav-item:hover:after{
             transform: scaleX(1);
         }
-        
         .nav-item::after{
             display: block;
             content: '';
@@ -74,16 +63,13 @@
             transition: 350ms ease-in-out;
             transform-origin: 0% 50%;
         }
-
         </style>
 
 		<div id="nav">
 			<a href="index.html" class="nav-item right">
                 <p>VANESSA KWONG </p>
             </a>
-
 			<a href="projects.html" class="nav-item left">PROJECTS</a>
-
             <a href="files/Vanessa_Kwong_CV.pdf" class = "nav-item left"> RESUME / CV </a>
 		</div>
 
@@ -91,74 +77,63 @@
        <style>
         .projects{
             background: rgb(38,60,93);
-background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
+            background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
             padding-top: 85px;
-            padding-bottom: 50px;
+            padding-bottom: 85px;
             color: aliceblue;
-
         }
-            .subheader {
-                font-family: Helvetica;
-                font-size: 50px;                    
-                text-align: center;
-                margin-top: 40px;
-                display: block;
-                
+        .subheader {
+            font-size: 50px;                    
+            text-align: center;
+            margin-top: 40px;
+            display: block;            
             }
-            .subsubheader {
-                font-family: Helvetica;
-                font-size: 30px;                  
-                text-align: center;
-                display: block;
-                color: rgb(173, 206, 255);
-                font-weight: bold;
+        .subsubheader {
+            font-family: Helvetica;
+            font-size: 30px;                  
+            text-align: center;
+            display: block;
+            color: rgb(173, 206, 255);
+            font-weight: bold;
             }
-            .sub3header {
-                font-family: Helvetica;
-                font-size: 25px;                  
-                text-align: center;
-                padding-left: 50px;
-                padding-right: 50px;
-                display: flex;
-                color: rgb(254, 254, 255);
-                align-items: center;
-            }
-            .detail-text {
-                font-family: Helvetica;
-                font-size: 2vh;
-                text-align: center;
-                padding-left: 130px;
-                padding-right: 130px;
-                align-items: center;
-		        padding-bottom:3px;
-                line-height: 3vh;
-            }
-            .hr {
-                margin-left:50px;
-                margin-right: 50px; 
-                margin-top: 30px; 
-                margin-bottom: 30px; 
-                background-color: #02080c;
-
-            }
-            .link {
-                color:rgb(214, 235, 255);
-            }
-
+        .detail-text {
+            font-family: Helvetica;
+            font-size: 2vh;
+            text-align: center;
+            padding-left: 130px;
+            padding-right: 130px;
+            align-items: center;
+            padding-bottom:3px;
+            line-height: 3vh;
+        }
+        .hr {
+            margin-left:50px;
+            margin-right: 50px; 
+            margin-top: 30px; 
+            margin-bottom: 30px; 
+            background-color: #02080c;
+        }
+        .link {
+            color:rgb(214, 235, 255);
+        }
+        .project {
+            border: #add2f7;
+            border-width: 3px;
+        }
        </style>
 
        <div class = "projects">
-            <div class="subheader"> <b><i>Projects</i></b></div>
+            <div class="subheader"> <b>Projects</b></div>
             <hr  class="hr">
-            <div class = "subsubheader"> Pulsed Nuclear Magnetic Resonance</div>
-            <br>
+            <div class="project">
+                <div class = "subsubheader"> Pulsed Nuclear Magnetic Resonance</div>
+                <br>
                 <div class = "detail-text">
                     This project was finished in fulfillment for the capstone laboratory course , <b>PHYS 142W</b>, at UC Riverside</a>. 
                     <br><br>
                     Pulsed nuclear magnetic resonance (PNMR) is a method used to determine the magnetic moment of nuclei, finding their 
                     distinct energy levels based on their nucleus spin and splitting. Deriving from the original nuclear magnetic resonance method, 
                     PNMR implements oscillating eleectromagnetic fields as short pulses of radio frequency signals.
-
                     <br><br>
                     <img src="images/pnmr.jpg" width="50%" style="align-items: center;">
                     <br><br>
@@ -170,8 +145,10 @@ background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
                     <br><br>
                     My final report can be found <a class="link" href="files/Pulsed_Nuclear_Magnetic_Resonance.pdf"><b>here</b></a>. 
                 </div>
+            </div>
 
-                <hr class="hr">
+            <hr class="hr">
+            <div class="project">
             <div class = "subsubheader"> Gamma Ray Emission Fom Radioactive Isobars</div>
             <br>
                 <div class = "detail-text">
@@ -191,7 +168,9 @@ background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
                     My final report can be found <a class="link" href="files/Gamma_Ray_Emission_from_Radioactive_Isobars.pdf"><b>here</b></a>. 
                 </div>
                 <br><br><br>
+                </div>
                 <hr class="hr">
+                <div class="project">
             <div class = "subsubheader"> Noise Fundamentals</div>
             <br>
                 <div class = "detail-text">
@@ -204,6 +183,7 @@ background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
                     <img src="images/noise-fund.jpg" width="50%" style="align-items: center;">
                     <br><br>
                     My final report can be found <a class="link" href="files/Noise_Fundamentals.pdf"><b>here</b></a>. 
+                </div>
                 </div>
 
                 <hr class="hr">
@@ -274,6 +254,7 @@ background: linear-gradient(0deg, rgba(38,60,93,1) 0%, rgba(2,10,15,1) 100%);
                             <br><br>
                             My final report can be found <a class="link" href="files/Vanessa Kwong_DG_paper.pdf"><b>here</b></a> and my 
                             presentation slides <a class="link" href="files/Vanessa Kwong_DG_ppt.pdf"><b>here</b></a>.
+                        </div>
 
         
                 <hr class="hr">
