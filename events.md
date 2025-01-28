@@ -2,7 +2,7 @@
 layout: page
 title: Events
 subtitle: 
-cover-img: /assets/img/events-hk.jpg
+cover-img: /assets/img/rise-pres-bkg.jpg
 ---
 
 ## Council for Undergraduate Research: STR Program
