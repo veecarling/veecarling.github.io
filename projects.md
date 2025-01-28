@@ -87,7 +87,7 @@ Bacterial counts, spectrophotometry of serial dilutions, and data analyses are d
 
 ---
 
-## Bacterial Analysis and Effectiveess of Common Glove Materials
+## Bacterial Analysis and Effectiveness of Common Glove Materials
 *Oct. 2017 - Apr. 2018*
 
 This project was completed for an evaluation of 3rd place Senior Microbiology Research Award at the **2018 Los Angeles County Science and Engineering Fair**,in representation of [**Glen A. Wilson High School**](https://wihs.hlpschools.org/).
