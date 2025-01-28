@@ -2,7 +2,7 @@
 layout: page
 title: Events
 subtitle: 
-cover-img: /assets/img/belltower.JPG
+cover-img: /assets/img/events-hk.jpg
 ---
 
 ## Council for Undergraduate Research: STR Program
