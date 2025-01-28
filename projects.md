@@ -94,7 +94,7 @@ My final report can be found [**here**](assets/files/Vanessa_Kwong_DG_paper.pdf)
 ---
 
 ## Bacterial Analysis and Effectiveness of Common Natural Preservatives
-*Jan. 2020 - May. 2020*
+*Jan. 2020 - May 2020*
 
 This project was completed as a capstone reearch for the [**PLTW Biomedical Sciences Pathway**](https://www.pltw.org/curriculum/biomedical-science) at [**Glen A. Wilson High School**](https://wihs.hlpschools.org/).
 
@@ -102,7 +102,7 @@ Bacterial counts, spectrophotometry of serial dilutions, and data analyses are d
 
 ---
 
-## Bacterial Analysis and Effectivelness of Common Glove Materials
+## Bacterial Analysis and Effectiveess of Common Glove Materials
 *Oct. 2017 - Apr. 2018*
 
 This project was completed for an evaluation of 3rd place Senior Microbiology Research Award at the **2018 Los Angeles County Science and Engineering Fair**,in representation of [**Glen A. Wilson High School**](https://wihs.hlpschools.org/).
