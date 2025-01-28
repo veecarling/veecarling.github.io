@@ -17,7 +17,11 @@ The featured article can be found [**here**](https://insideucr.ucr.edu/awards/20
 
 ---
 ## 2024 UC Riverside Research in Science & Engineering Symposium
-*Aug. 2024*
+*Aug. 28, 2024*
+
+My oral presentation slides on my summer project, **"Developing Low Temperature Contacts for Monolayer TMD Heterostructures"**, can be found [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
+
+More information on the symposium can be found [**here**](https://rise.ucr.edu/2024-risemarc-symposium).
 
 ---
 
