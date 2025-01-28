@@ -22,6 +22,7 @@ author: Vanessa Kwong
 navbar-links:
   #About Me: "aboutme"
   Projects: "projects"
+  Events: "events"
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
