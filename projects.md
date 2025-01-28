@@ -89,7 +89,7 @@ This project was completed as a final project for [**Dynamic Genome**](https://d
 
 The objective of this research project is to mutagenize and “knock-out” various genes related to WFL and KOIN to determine if there is redundancy in functionality. The comparison of A. thaliana phenotypes between ones with mutated and wild genetic sequences will determine whether each gene covers the same function as and WFL and KOIN.
 
-My final report can be found [**here**](Vanessa_Kwong_DG_paper.pdf) and my presentation slides [**here**](Vanessa_Kwong_DG_ppt.pdf).
+My final report can be found [**here**](assets/files/Vanessa_Kwong_DG_paper.pdf) and my presentation slides [**here**](assets/files/Vanessa_Kwong_DG_ppt.pdf).
 
 ---
 
