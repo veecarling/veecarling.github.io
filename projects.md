@@ -10,7 +10,7 @@ cover-img: /assets/img/sbkg.jpg
 ## Pulsed Nuclear Magnetic Resonance
 *Nov. 2024 - Dec. 2024*
 
-This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
+This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at UC Riverside.
 
 Pulsed nuclear magnetic resonance (PNMR) is a method used to determine the magnetic moment of nuclei, finding their distinct energy levels based on their nucleus spin and splitting. Deriving from the original nuclear magnetic resonance method, PNMR implements oscillating eleectromagnetic fields as short pulses of radio frequency signals.
 
@@ -25,7 +25,7 @@ My final report can be found [**here**](assets/files/Pulsed_Nuclear_Magnetic_Res
 ## Gamma Ray Emission From Radioactive Isobars
 *Nov. 2024*
 
-This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
+This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at UC Riverside.
 
 ![Gamma Ray Setup](assets/img/gamma-ray.jpg)
 
@@ -38,7 +38,7 @@ My final report can be found [**here**](assets/files/Gamma_Ray_Emission_from_Rad
 ## Noise Fundamentals
 *Oct. 2024 - Nov. 2024*
 
-This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
+This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at UC Riverside.
 
 ![Noise Fundamentals Setup](assets/img/noise-fund.jpg)
 
@@ -83,7 +83,7 @@ My oral presentation can be found [**here**](https://www.youtube.com/watch?v=1-5
 ## Mutating AT3G08680 Using CRISPR-Cas9 to Determine Functional Redundancy
 *Jan. 2021 - Mar. 2021*
 
-This project was completed as a final project for [**Dynamic Genome**](https://dynamicgenome.ucr.edu/), a research-based laboratory for a class alternative.
+This project was completed as a final project for [**Dynamic Genome**](https://dynamicgenome.ucr.edu/), a research-based laboratory for a class alternative at UC Riverside.
 
 ![Dynamic Genome Gene](assets/img/dg_gene.png)
 
@@ -96,7 +96,7 @@ My final report can be found [**here**](assets/files/Vanessa_Kwong_DG_paper.pdf)
 ## Bacterial Analysis and Effectiveness of Common Natural Preservatives
 *Jan. 2020 - May. 2020*
 
-This project was completed as a capstone reearch for the [**PLTW Biomedical Sciences Pathway**](https://www.pltw.org/curriculum/biomedical-science) at Glen A. Wilson High School.
+This project was completed as a capstone reearch for the [**PLTW Biomedical Sciences Pathway**](https://www.pltw.org/curriculum/biomedical-science) at [**Glen A. Wilson High School**](https://wihs.hlpschools.org/).
 
 Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done on food items, comparing to use of several natural preservatives: honey, sugar, and salt in preventing bacterial growth over time.
 
