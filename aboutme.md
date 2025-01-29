@@ -10,4 +10,4 @@ I am a fifth-year student and research assistant at University of California, Ri
 With additional internship, lab, and industry experience, I hope to continue in the field of condensed matter physics or materials science & engineering. You can find my CV [**here**](assets/files/Vanessa_Kwong_CV.pdf).
 
 
-In my free time, I enjoy travelling, photography, gaming, and exploring new cafes!
+In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, stand-up comedy, and exploring new cafes!
