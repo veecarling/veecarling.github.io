@@ -13,7 +13,9 @@ My first three years in university was spent towards a degree in biology on a pr
 and research implementation into the field of medicine. By the beginning of my fourth year, I had found great interest in being on the forefront of research and studying processes 
 and interactions at an atomic level--the very studies that can advance technology to solve problems in any field. I was fascinated by the vast impact studies on such small systems 
 can have. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major.
+
 ---
+
 ##### Relevant Coursework:
 > ###### Physics
 > PHYS 111 : Astrophysics & Stellar Astronomy\
