@@ -17,7 +17,8 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 ---
 
 ##### Relevant Coursework:
-> ###### Physics
+
+###### Physics
 > PHYS 111 : Astrophysics & Stellar Astronomy\
 > PHYS 130A - 130B : Classical Mechanics\
 > PHYS 135A - 135B : Electromagnetism\
@@ -29,14 +30,14 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 > PHYS 177 : Computational Methods for Physical Sciences\
 > PHYS 195A - 195C: Senior Thesis
 
-> ###### Biological Sciences
+###### Biological Sciences
 > BCH 100 : Introductory Biochemistry\
 > BIOL 102: Genetics\
 > BIOL 176 : Comparative Biomechanics\
 > CBNS 101: Fundamentals of Cell Biology\
 > CBNS 106 : Introduction to Neuroscience
 
-> ###### Other
+###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
  
 ---
