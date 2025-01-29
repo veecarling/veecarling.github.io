@@ -36,5 +36,7 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 
 > ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
+ 
 ---
+
 Having pivoted from an academic and research background in biological sciences, I have a profound interest in multidisciplinary research and a desire to help in overcoming conventionally steep learning curves.
