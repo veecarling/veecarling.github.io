@@ -12,7 +12,7 @@ With additional internship, lab, and industry experience, I hope to continue in 
 ## Education
 
 #### University of California, Riverside
-**B.S. Physics**, Expected April 2025
+**B.S. Physics**, *Expected April 2025*
 
 ![ucr](assets/img/belltower.JPG)
 
@@ -40,14 +40,5 @@ My first three years in university was spent towards a degree in biology on a pr
 
 > ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
-
-
-## Research Experience and Interests
-
-In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at [**The Joe Lab**](https://joelab.ucr.edu/), focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
-
-![mse](assets/img/mse.jpg)
-
-Through extensive laboratory and research experience, I have become an adaptable and dedicated researcher, especially driven by my fascination and curiosity to understand and expand the novelty in science behind modern technological advancements.
 
 Having pivoted from an academic and research background in biological sciences, I have a profound interest in multidisciplinary research and a desire to help in overcoming conventionally steep learning curves.
