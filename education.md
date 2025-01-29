@@ -5,8 +5,8 @@ cover-img: assets/img/belltower.JPG
 ---
 
 
-#### University of California, Riverside
-**B.S. Physics**, *Expected April 2025*
+## University of California, Riverside
+#### **B.S. Physics**, *Expected April 2025*
 
 
 My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
