@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 subtitle:
-cover-img: /assets/img/dt-toronto-2.JPG
+cover-img: /assets/img/dt-toronto.JPG
 ---
 
 I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. My laboratory experience consists of both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.
