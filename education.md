@@ -2,7 +2,7 @@
 layout: page
 title: Education
 cover-img: assets/img/belltower.JPG
-===
+---
 
 
 #### University of California, Riverside
