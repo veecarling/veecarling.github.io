@@ -18,7 +18,7 @@ Petit France | Strasbourg, France
 ![Strasbourg](assets/img/summit-mirror.JPG)
 Summit One Vanderbilt | New York, USA
 
-![NPS](assets/img/nps.JPG)
+![NPS](assets/img/nps.jpg)
 Nathan Phillips Square | Toronto, ON
 
 ![Residence](assets/img/residence.JPG)
