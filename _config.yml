@@ -20,7 +20,7 @@ author: Vanessa Kwong
 ###############################################
 
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
   Projects: "projects"
   Events: "events"
 
