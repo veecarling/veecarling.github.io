@@ -11,7 +11,7 @@ Through extensive laboratory experience, I have become an adaptable and dedicate
  
 I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law. 
 
-##Background##
+## Background ##
 My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
 and research implementation into the field of medicine. By the beginning of my fourth year, I had found great interest in being on the forefront of research and studying processes 
 and interactions at an atomic level--the very studies that can advance technology to solve problems in any field. I was fascinated by the vast impact studies on such small systems 
@@ -20,17 +20,17 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at The Joe Lab under the UC Riverside Department of Physics and Astronomy, focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
 
 
-##Interests##
-###Research###
+## Interests ##
+### Research ###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics.
 
-###Education and Advocacy###
+### Education and Advocacy ###
 As with research in condensed matter physics, I aim to make large-scale contributions through studying and making changes at the small-scale. Reflecting on my learning curve and initial progress in a new area of study and research, to seeing the impactful projects of students I have trained, I have growing respect and appreciation for academia and research. In academia, mentorship plays a large role in the development of researchers, from PI to graduate students, and from them to undergraduates. I believe effective undergraduate research begins with the right support and resources to help a student grow and push their potential. Not only does this gift each student with opportunity, but even broader, will effectively nurture the next generation of researchers, science, and implementatiopn of these discoveries to the general public.
 
 Especially prominent in experimental condensed matter, new information found through novel research takes decades to be engineered and fully applied to be carried out in practical uses. There is often confusion from starting researchers in the topic of how such concentrated subjects can be put to use in the everyday setting. Tthis disconnection essentially hinders those unaware, who have not been brought up in an environment surrounded by such specific topics, from potential growth opportunities and discovery of academic or professional interests. I believe transparency and accessibility, combined with proactiveness of those willing to learn will shape researches to become successful.
 ----
 #Education#
-### University of California, Riverside###
+### University of California, Riverside ###
 **B.S. Physics**, *Expected April 2025*
 
 
