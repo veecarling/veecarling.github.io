@@ -21,7 +21,7 @@ In my final years of my undergraduate degree, I have been working as an undergra
 
 
 ##Interests##
-###Research##
+###Research###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics.
 
 ###Education and Advocacy###
@@ -30,7 +30,7 @@ As with research in condensed matter physics, I aim to make large-scale contribu
 Especially prominent in experimental condensed matter, new information found through novel research takes decades to be engineered and fully applied to be carried out in practical uses. There is often confusion from starting researchers in the topic of how such concentrated subjects can be put to use in the everyday setting. Tthis disconnection essentially hinders those unaware, who have not been brought up in an environment surrounded by such specific topics, from potential growth opportunities and discovery of academic or professional interests. I believe transparency and accessibility, combined with proactiveness of those willing to learn will shape researches to become successful.
 ----
 #Education#
-## University of California, Riverside
+### University of California, Riverside###
 **B.S. Physics**, *Expected April 2025*
 
 
