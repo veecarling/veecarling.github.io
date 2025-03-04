@@ -21,7 +21,7 @@ author: Vanessa Kwong
 
 navbar-links:
   About Me: "aboutme"
-  Education: "education"
+  #Education: "education"
   Projects: "projects"
   Events: "events"
 
