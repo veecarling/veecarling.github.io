@@ -8,8 +8,11 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 ## Council for Undergraduate Research: STR Program
 *March 1, 2025 - March 3, 2025*
 
-- Participate in multiple workshops to enhance development in scientific communication and advocate for undergraduate research funding at Capitol Hill
-- Represent University of California, Riverside, in sharing impact of past undergraduate research projects and experience to stakeholders 
+- Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience 
+
+- Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work
+
+- Participate in multiple workshops to enhance development and advocacy in scientific communication
 
 More information on the CUR-STR program can be found [**here**](https://www.cur.org/events-services/str-program/).
 
