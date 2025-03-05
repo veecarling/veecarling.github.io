@@ -47,7 +47,7 @@ As a parallel with my initial interest in forensics, patent law gives respect to
 ### University of California, Riverside ###
 **B.S. Physics**, *Expected April 2025*
 
-
+![ucrh](assets/img/ucr-seal-big.jpg)
 ---
 
 ##### Relevant Coursework:
