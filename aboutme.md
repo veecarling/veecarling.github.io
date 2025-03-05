@@ -11,6 +11,8 @@ Through extensive laboratory experience, I have become an adaptable and dedicate
  
 I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law. 
 
+---
+
 ## Background ##
 My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
 and research implementation into the field of medicine. By the beginning of my fourth year, I had found great interest in being on the forefront of research and studying processes 
@@ -19,6 +21,7 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 
 In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at The Joe Lab under the UC Riverside Department of Physics and Astronomy, focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
 
+---
 
 ## Interests ##
 ### In Research... ###
