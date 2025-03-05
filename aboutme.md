@@ -19,7 +19,7 @@ and research implementation into the field of medicine. By the beginning of my f
 and interactions at an atomic level--the very studies that can advance technology to solve problems in any field. I was fascinated by the vast impact studies on such small systems 
 can have. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major a quarter before my originally intended graduation term.
 
-In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at The Joe Lab under the UC Riverside Department of Physics and Astronomy, focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
+In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at ![The Joe Lab](https://joelab.ucr.edu/) under Dr. Andrew Joe in the ![UC Riverside Department of Physics and Astronomy](https://www.physics.ucr.edu/), focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
 
 ---
 
