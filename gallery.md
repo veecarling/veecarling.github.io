@@ -2,7 +2,8 @@
 layout: page
 title: Gallery
 subtitle:
-cover-img: /assets/img/dt-toronto.JPG
+cover-img: /assets/img/events-hk.jpg
+
 ---
 
 In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, art, stand-up comedy, and exploring new cafes!
