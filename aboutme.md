@@ -76,4 +76,3 @@ As a parallel with my initial interest in forensics, patent law gives respect to
 ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
  
-![mse](assets/img/mse.jpg)
