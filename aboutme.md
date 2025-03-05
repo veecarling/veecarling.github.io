@@ -51,12 +51,13 @@ Especially prominent in experimental condensed matter, new information found thr
 > PHYS 177 : Computational Methods for Physical Sciences\
 > PHYS 195A - 195C: Senior Thesis
 
-###### Biological Sciences
+###### Biological and Life Sciences
 > BCH 100 : Introductory Biochemistry\
 > BIOL 102: Genetics\
 > BIOL 176 : Comparative Biomechanics\
 > CBNS 101: Fundamentals of Cell Biology\
-> CBNS 106 : Introduction to Neuroscience
+> CBNS 106 : Introduction to Neuroscience\
+> CHEM 8A-C: Organic Chemistry
 
 ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
@@ -65,10 +66,7 @@ Especially prominent in experimental condensed matter, new information found thr
 
 
 
-
-
-
-In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, stand-up comedy, and exploring new cafes!
+In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, drawing, stand-up comedy, and exploring new cafes!
 
 ---
 
