@@ -12,7 +12,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 
 - Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work
 
-![CUR](assets/img/cur-str.jpg)
+![CUR](assets/img/str-cur.jpg)
 
 - Participate in multiple workshops to enhance development and advocacy in scientific communication
 
