@@ -21,10 +21,10 @@ In my final years of my undergraduate degree, I have been working as an undergra
 
 
 ## Interests ##
-### Research ###
+### In Research... ###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics.
 
-### Education and Advocacy ###
+### In Education and Advocacy... ###
 As with research in condensed matter physics, I aim to make large-scale contributions through studying and making changes at the small-scale. Reflecting on my learning curve and initial progress in a new area of study and research, to seeing the impactful projects of students I have trained, I have growing respect and appreciation for academia and research. In academia, mentorship plays a large role in the development of researchers, from PI to graduate students, and from them to undergraduates. I believe effective undergraduate research begins with the right support and resources to help a student grow and push their potential. Not only does this gift each student with opportunity, but even broader, will effectively nurture the next generation of researchers, science, and implementation of these discoveries to the general public.
 
 Especially prominent in experimental condensed matter, new information found through novel research takes decades to be engineered and fully applied to be carried out in practical uses. There is often confusion from starting researchers in the topic of how such concentrated subjects can be put to use in the everyday setting. This disconnection essentially hinders those unaware, who have not been brought up in an environment surrounded by such specific topics, from potential growth opportunities and discovery of academic or professional interests. I believe transparency and accessibility, combined with proactiveness of those willing to learn will shape researchers to become successful.
