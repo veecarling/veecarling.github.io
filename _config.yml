@@ -24,6 +24,7 @@ navbar-links:
   #Education: "education"
   Projects: "projects"
   Events: "events"
+  Gallery: "gallery"
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
