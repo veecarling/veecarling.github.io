@@ -62,11 +62,3 @@ Especially prominent in experimental condensed matter, new information found thr
 ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
  
-
-
-
-
----
-
-![Yamashiro](assets/img/yamashiro.JPG)
-Yamashiro | Hollywood, USA
