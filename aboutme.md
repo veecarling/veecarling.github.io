@@ -66,7 +66,7 @@ Especially prominent in experimental condensed matter, new information found thr
 
 
 
-In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, drawing, stand-up comedy, and exploring new cafes!
+In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/gallery), gaming, art, stand-up comedy, and exploring new cafes!
 
 ---
 
