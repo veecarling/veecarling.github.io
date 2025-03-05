@@ -24,19 +24,19 @@ In my final years of my undergraduate degree, I have been working as an undergra
 ---
 
 ## Interests ##
-### In Research... ###
+### *In Research...* ###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics. Specifically I would like to investigate quantum states in novel materials such as transition metal dichalcogenides and their light-matter interaction through studying optics and transport. At the monolayer limit, these materials act as semiconductors capable of hosting correlated states. By creating a moiré pattern using twisted materials within a heterostructure device, light can interact differently with the resulting alignments (..or misalignments) of the original crystal structure. 
 
 Successful experimentation with light and exciton activity in van der Waals materials at two dimensions opens the doors to large advancements in technology though its wide applications to optoelectronics development.
 
 
-### In Education and Advocacy... ###
+### *In Education and Advocacy...* ###
 As with research in condensed matter physics, I aim to make large-scale contributions through studying and making changes at the small-scale. Reflecting on my learning curve and initial progress in a new area of study and research, to seeing the impactful projects of students I have trained, I have growing respect and appreciation for academia and research. In academia, mentorship plays a large role in the development of researchers, from principal investigator to graduate students, and from them to undergraduates. I believe effective undergraduate research begins with the right support and resources to help a student grow and push their potential. Not only does this gift each student with opportunity, but even broader, will effectively nurture the next generation of researchers, science, and implementation of these discoveries to the general public.
 
 Especially prominent in experimental condensed matter, new information found through novel research takes decades to be engineered and fully applied to be carried out in practical uses. There is often confusion from starting researchers in the topic of how such concentrated subjects can be put to use in the everyday setting. This disconnection essentially hinders those unaware, who have not been brought up in an environment surrounded by such specific topics, from potential growth opportunities and discovery of academic or professional interests. I believe transparency and accessibility, combined with proactiveness of those willing to learn will shape researchers to become successful.
 
 
-### At the Intersection of Research, Industry, Education, and Law... ###
+### *At the Intersection of Research, Industry, Education, and Law...* ###
 As a parallel with my initial interest in forensics, patent law gives respect to researchers who put in effort to pushing the forefront of science. I especially would like to concentrate on the semiconductor industry, where research is constantly driving discoveries in nanotechnology. Having laboratory experience with two-dimensional materials research in condensed matter physics applicable to optoelectronics, I understand the time and endeavours required in producing meaningful research. My personal background starting as a life sciences major and switching at the last minute--revisiting and building onto my introductory knowledge, and gathering adequate undergraduate experience in a new field in a little less than two years--has allowed me to understand the obstacles and steep learning curves that come with learning a new subject, especially one that is deemed conventionally unapproachable and complex.
 
 
