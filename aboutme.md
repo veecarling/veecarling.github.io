@@ -25,7 +25,10 @@ In my final years of my undergraduate degree, I have been working as an undergra
 
 ## Interests ##
 ### In Research... ###
-Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics.
+Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics. Specifically I would like to investigate quantum states in novel materials such as transition metal dichalcogenides and their light-matter interaction through studying optics and transport. At the monolayer limit, these materials act as semiconductors capable of hosting correlated states. By creating a moiré pattern using twisted materials within a heterostructure device, light can interact differently with the resulting alignments (..or misalignments) of the original crystal structure. 
+
+Successful experimentation with light and exciton activity in van der Waals materials at two dimensions opens the doors to large advancements in technology though its wide applications to optoelectronics development.
+
 
 ### In Education and Advocacy... ###
 As with research in condensed matter physics, I aim to make large-scale contributions through studying and making changes at the small-scale. Reflecting on my learning curve and initial progress in a new area of study and research, to seeing the impactful projects of students I have trained, I have growing respect and appreciation for academia and research. In academia, mentorship plays a large role in the development of researchers, from PI to graduate students, and from them to undergraduates. I believe effective undergraduate research begins with the right support and resources to help a student grow and push their potential. Not only does this gift each student with opportunity, but even broader, will effectively nurture the next generation of researchers, science, and implementation of these discoveries to the general public.
