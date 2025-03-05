@@ -9,7 +9,7 @@ I am a fifth-year student and research assistant at University of California, Ri
 
 Through extensive laboratory experience, I have become an adaptable and dedicated researcher, especially driven by my fascination and curiosity to understand and expand the novelty in science behind modern technological advancements. Pivoting from a biological science background and having trained starting lab members with differing backgrounds, I also have a desire to help in pushing the boundaries of multidisciplinary knowledge to bridge gaps between fields. I would like to help in overcoming conventionally steep learning curves through making research and its applications easily understandable and approachable, whether through meaningful mentorship, or merging art and science to model difficult concepts.
  
-I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law. 
+I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law in the semiconductor industry. 
 
 ---
 
