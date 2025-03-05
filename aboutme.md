@@ -70,7 +70,7 @@ In my free time, I enjoy travelling, [photography](https://vsco.co/veecarling/ga
 
 ---
 
-![Capybaras](assets/img/IMG_2994.jpg)
+![Capybaras](assets/img/comptoncapy.jpg)
 Gamma Ray Emission Spectra-Inspired Capybara Moment | Chalk Sketch 
 
 ---
