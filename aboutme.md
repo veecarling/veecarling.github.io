@@ -57,7 +57,7 @@ Especially prominent in experimental condensed matter, new information found thr
 > BIOL 176 : Comparative Biomechanics\
 > CBNS 101: Fundamentals of Cell Biology\
 > CBNS 106 : Introduction to Neuroscience\
-> CHEM 8A - C: Organic Chemistry
+> CHEM 8A - 8C: Organic Chemistry
 
 ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
