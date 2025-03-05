@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 subtitle:
-cover-img: /assets/img/events-hk.jpg
+cover-img: /assets/img/dt-toronto.JPG
 ---
 
 I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. You can find my CV [**here**](assets/files/Vanessa_Kwong_CV.pdf).
