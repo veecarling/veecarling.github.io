@@ -27,7 +27,7 @@ In my final years of my undergraduate degree, I have been working as an undergra
 ### *In Research...* ###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics. Specifically I would like to investigate quantum states in novel materials such as transition metal dichalcogenides and their light-matter interaction through studying optics and transport. At the monolayer limit, these materials act as semiconductors capable of hosting correlated states. By creating a moiré pattern using twisted materials within a heterostructure device, light can interact differently with the resulting alignments (..or misalignments) of the original crystal structure. 
 
-![Research](assets/img/in-research.jpg)
+![Research](assets/img/moire.jpg)
 
 Successful experimentation with light and exciton activity in van der Waals materials at two dimensions opens the doors to large advancements in technology though its wide applications to optoelectronics development.
 
