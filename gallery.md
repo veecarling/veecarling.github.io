@@ -42,3 +42,9 @@ Causeway Bay Skyline | Hong Kong, HK
 
 ![Seattle](assets/img/seattle.JPG)
 The Amazon Spheres | Seattle, USA
+
+---
+
+![Yamashiro](assets/img/yamashiro.JPG)
+Yamashiro | Hollywood, USA
+
