@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/dt-toronto.JPG
 ---
 
-I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. You can find my CV [**here**](assets/files/Vanessa_Kwong_CV.pdf).
+I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. Please find my CV [**here**](assets/files/Vanessa_Kwong_CV.pdf).
 
 Through extensive laboratory experience, I have become an adaptable and dedicated researcher, especially driven by my fascination and curiosity to understand and expand the novelty in science behind modern technological advancements. Pivoting from a biological science background and having trained starting lab members with differing backgrounds, I also have a desire to help in pushing the boundaries of multidisciplinary knowledge to bridge gaps between fields. I would like to help in overcoming conventionally steep learning curves through making research and its applications easily understandable and approachable, whether through meaningful mentorship, or merging art and science to model difficult concepts.
  
