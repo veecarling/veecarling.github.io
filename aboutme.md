@@ -14,7 +14,7 @@ I look forward to additional research involvement and higher education in conden
 
 ## Background ##
 My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
-and research implementation into the field of medicine. This emphasized the importance of abiding by laws, and also giving respect back to those who have passed through using known evidence to uncover their cause of death and conviction of the guilty. 
+and research implementation into the field of medicine. This emphasized the importance of lawmaking, law compliance, and also giving respect back to those who have passed through using known evidence to uncover their cause of death and conviction of the guilty. 
 
 
 By the beginning of my fourth year, I had found great interest in being on the forefront of research over clinical work. My great initial impression of introductory physics led me to take a course and starting research in condensed matter physics, studying processes and interactions at an atomic level--the very studies that can advance technology to solve problems in any field. I was fascinated by the vast impact studies on such small systems can have. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major a quarter before my originally intended graduation term.
