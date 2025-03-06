@@ -42,37 +42,3 @@ Especially prominent in experimental condensed matter, new information found thr
 As a parallel with my initial interest in forensics, patent law gives respect to researchers who put in effort to pushing the forefront of science. I especially would like to concentrate on the semiconductor industry, where research is constantly driving discoveries in nanotechnology. Having laboratory experience with two-dimensional materials research in condensed matter physics applicable to optoelectronics, I understand the time and endeavours required in producing meaningful research. My personal background starting as a life sciences major and switching at the last minute--revisiting and building onto my introductory knowledge, and gathering adequate undergraduate experience in a new field in a little less than two years--has allowed me to understand the obstacles and steep learning curves that come with learning a new subject, especially one that is deemed conventionally unapproachable and complex.
 
 
-----
-## Education ##
-### University of California, Riverside ###
-**B.S. Physics**, *Expected April 2025*
-
-![ucr](assets/img/ucr-seal.jpg)
-
----
-
-##### Relevant Coursework:
-
-###### Physics
-> PHYS 111 : Astrophysics & Stellar Astronomy\
-> PHYS 130A - 130B : Classical Mechanics\
-> PHYS 135A - 135B : Electromagnetism\
-> PHYS 136 : Electromagnetic Waves\
-> PHYS 139L : Electronics Laboratory\
-> PHYS 142W : Advanced Physics Laboratory\
-> PHYS 150A - 150B : Introduction to Condensed Matter Physics\
-> PHYS 156A - 156B : Quantum Mechanics\
-> PHYS 177 : Computational Methods for Physical Sciences\
-> PHYS 195A - 195C: Senior Thesis
-
-###### Biological and Life Sciences
-> BCH 100 : Introductory Biochemistry\
-> BIOL 102: Genetics\
-> BIOL 176 : Comparative Biomechanics\
-> CBNS 101: Fundamentals of Cell Biology\
-> CBNS 106 : Introduction to Neuroscience\
-> CHEM 8A - 8C: Organic Chemistry
-
-###### Other
-> CS 10A : Computer Science for Science, Mathematics, and Engineering
- 
