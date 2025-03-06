@@ -20,8 +20,10 @@ author: Vanessa Carling Kwong
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  #Education: "education"
+  About Me:
+    - Research & Interests: "aboutme"
+    - Education: "education"
+    
   Projects: "projects"
   Events: "events"
   Gallery: "gallery"
