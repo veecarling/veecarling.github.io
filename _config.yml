@@ -21,7 +21,7 @@ author: Vanessa Carling Kwong
 
 navbar-links:
   About Me:
-    - Research & Interests: "aboutme"
+    - Background & Interests: "aboutme"
     - Education: "education"
     
   Projects: "projects"
