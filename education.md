@@ -4,15 +4,11 @@ title: Education
 cover-img: assets/img/belltower.JPG
 ---
 
-
-## University of California, Riverside
+## Education ##
+### University of California, Riverside ###
 **B.S. Physics**, *Expected April 2025*
 
-
-My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
-and research implementation into the field of medicine. By the beginning of my fourth year, I had found great interest in being on the forefront of research and studying processes 
-and interactions at an atomic level--the very studies that can advance technology to solve problems in any field. I was fascinated by the vast impact studies on such small systems 
-can have. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major.
+![ucr](assets/img/ucr-seal.jpg)
 
 ---
 
@@ -30,16 +26,14 @@ can have. Through initially declaring a minor in physics, I explored specific fi
 > PHYS 177 : Computational Methods for Physical Sciences\
 > PHYS 195A - 195C: Senior Thesis
 
-###### Biological Sciences
+###### Biological and Life Sciences
 > BCH 100 : Introductory Biochemistry\
 > BIOL 102: Genetics\
 > BIOL 176 : Comparative Biomechanics\
 > CBNS 101: Fundamentals of Cell Biology\
-> CBNS 106 : Introduction to Neuroscience
+> CBNS 106 : Introduction to Neuroscience\
+> CHEM 8A - 8C: Organic Chemistry
 
 ###### Other
 > CS 10A : Computer Science for Science, Mathematics, and Engineering
  
----
-
-Having pivoted from an academic and research background in biological sciences, I have a profound interest in multidisciplinary research and a desire to help in overcoming conventionally steep learning curves.
