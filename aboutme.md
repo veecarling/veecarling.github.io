@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Background & Interests
 subtitle:
 cover-img: /assets/img/dt-toronto.JPG
 ---
