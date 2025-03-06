@@ -4,7 +4,6 @@ title: Education
 cover-img: assets/img/belltower.JPG
 ---
 
-## Education ##
 ### University of California, Riverside ###
 **B.S. Physics**, *Expected April 2025*
 
