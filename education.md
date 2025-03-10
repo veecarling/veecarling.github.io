@@ -5,7 +5,7 @@ cover-img: assets/img/belltower.JPG
 ---
 
 ### University of California, Riverside ###
-**B.S. Physics**, *Expected April 2025*
+**B.S. Physics** - Standard Track, *Expected April 2025*
 
 ![ucr](assets/img/ucr-seal.jpg)
 
@@ -16,6 +16,7 @@ cover-img: assets/img/belltower.JPG
 ###### Physics
 > PHYS 111 : Astrophysics & Stellar Astronomy\
 > PHYS 130A - 130B : Classical Mechanics\
+> PHYS 132 : Thermal Physics & Statistical Mechanics\
 > PHYS 135A - 135B : Electromagnetism\
 > PHYS 136 : Electromagnetic Waves\
 > PHYS 139L : Electronics Laboratory\
@@ -34,5 +35,5 @@ cover-img: assets/img/belltower.JPG
 > CHEM 8A - 8C: Organic Chemistry
 
 ###### Other
-> CS 10A : Computer Science for Science, Mathematics, and Engineering
+> CS 10A : Computer Science for Science, Mathematics, and Engineering (C++)
  
