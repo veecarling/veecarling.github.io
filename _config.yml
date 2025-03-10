@@ -22,7 +22,6 @@ navbar-links:
   About Me:
     - Background & Interests: "aboutme"
     - Education: "education"
-    
   Projects: "projects"
   Events: "events"
   Gallery: "gallery"
