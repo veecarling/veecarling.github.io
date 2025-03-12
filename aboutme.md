@@ -16,7 +16,7 @@ I look forward to additional research involvement and higher education in conden
 ---
 
 ## Background ##
-My first three years in university was spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
+My first three years in university were spent towards a degree in biology on a pre-medicine route, aiming to work in forensic pathology. I was captivated by its problem-solving 
 and research implementation into the field of medicine. This emphasized the importance of lawmaking, law compliance, and also giving respect back to those who have passed through using known evidence to uncover their cause of death and conviction of the guilty. 
 
 
