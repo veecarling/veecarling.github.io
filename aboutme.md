@@ -6,11 +6,11 @@ cover-img: /assets/img/dt-toronto.JPG
 ---
 <div style = "background-color:#F0F8FF; padding:15px">
 I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. 
-
+<br><br>
 <a href = "https://veecarling.github.io/assets/files/Vanessa_Kwong_CV.pdf" target = "_blank">
 <button class="button-57" role="button"><span class="text">Please refer to my curriculum vitae here</span><span>CV</span></button>
 </a>
-
+<br><br>
 I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law in the semiconductor industry. 
 </div>
 ---
