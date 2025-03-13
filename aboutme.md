@@ -24,7 +24,7 @@ By the beginning of my fourth year, I had found great interest in being on the f
 
 In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at [**The Joe Lab**](https://joelab.ucr.edu/) under **Dr. Andrew Joe** in the [**UC Riverside Department of Physics and Astronomy**](https://www.physics.ucr.edu/), focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
 
-![Device](assets/img/dev-r1.jpg)
+![Device](assets/img/dev-r1-adjusted.jpg)
 
 
 ---
