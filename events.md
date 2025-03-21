@@ -18,7 +18,11 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 
 More information on the CUR-STR program can be found [**here**](https://www.cur.org/events-services/str-program/).
 
-The featured article can be found [**here**](https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program).
+The featured articles can be found here:
+
+ [UCR Team to Participate in National Undergraduate Research Program](https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program).
+
+ [CNAS Visits Washington...](https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action)
 
 ---
 ## 2024 UC Riverside Research in Science & Engineering Symposium
