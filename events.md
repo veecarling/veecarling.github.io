@@ -4,6 +4,9 @@ title: Events
 subtitle: 
 cover-img: /assets/img/rise-pres-bkg.jpg
 ---
+## CSU San Bernardino CalSWIFT 2025 Symposium
+*April 11, 2025*
+- Panelist for Student Research event  
 
 ## Council for Undergraduate Research: STR Program
 *March 1, 2025 - March 3, 2025*
