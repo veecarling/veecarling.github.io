@@ -10,6 +10,8 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 - California Semiconductor Workforce Development & Innovation for Future Technologies
 - Panelist speaker for Student Experiences in Semiconductor Research
 
+[CalSWIFT Program](assets/files/calswift-program.pdf)
+
 ## Council for Undergraduate Research: STR Program
 *March 1, 2025 - March 3, 2025*
 
