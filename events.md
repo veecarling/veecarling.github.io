@@ -4,32 +4,33 @@ title: Events
 subtitle: 
 cover-img: /assets/img/rise-pres-bkg.jpg
 ---
-## CSU San Bernardino CalSWIFT 2025 Symposium
-*April 11, 2025*
+<div class = "project" style="padding:15px">
+<h1> CSU San Bernardino CalSWIFT 2025 Symposium</h1>
+<i>April 11, 2025</i>
   
-- California Semiconductor Workforce Development & Innovation for Future Technologies
-- Panelist speaker for Student Experiences in Semiconductor Research
+<ul>California Semiconductor Workforce Development & Innovation for Future Technologies</ul>
+<ul>Panelist speaker for Student Experiences in Semiconductor Research</ul>
 
-[CalSWIFT Program](assets/files/calswift-program.pdf)
+<a href="assets/files/calswift-program.pdf">CalSWIFT Program</a>
+</div>
+<br><br>
 
-## Council for Undergraduate Research: STR Program
-*March 1, 2025 - March 3, 2025*
+<div class = "project" style="padding:15px">
+<h1> Council for Undergraduate Research: STR Program</h1>
+<i>March 1, 2025 - March 3, 2025</i>
+  
+<ul>Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience </ul>
+<ul>Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work</ul>
+<br><img src="assets/img/str-cur.jpg" alt="STR-CUR"><br>
+<ul>Participate in multiple workshops to enhance development and advocacy in scientific communication</ul>
+<br>
 
-- Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience 
-
-- Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work
-
-![CUR](assets/img/str-cur.jpg)
-
-- Participate in multiple workshops to enhance development and advocacy in scientific communication
-
-More information on the CUR-STR program can be found [**here**](https://www.cur.org/events-services/str-program/).
-
+More information on the CUR-STR program can be found <a href="https://www.cur.org/events-services/str-program/"><b>here</b></a>.
+<br><br>
 The featured articles can be found here:
-
- [UCR Team to Participate in National Undergraduate Research Program](https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program)
-
- [CNAS Visits Washington on a Call to Action](https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action)
+<a href="https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program"><b>UCR Team to Participate in National Undergraduate Research Program</b></a>
+<a href="https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action"><b>CNAS Visits Washington on a Call to Action</b>
+</div>
 
 ---
 ## 2024 UC Riverside Research in Science & Engineering Symposium
@@ -53,3 +54,21 @@ Silicon-based semiconductor devices have come to make many modern technological 
 We create and optically characterize the electrically controllable WSe₂ and MoSe₂ monolayer transistor devices at room and cryogenic temperatures. These devices will serve as the basis for designing novel valleytronic devices, where photons can be stored and manipulated in both the spin and valley states.
 
 More information on the symposium can be found [**here**](https://engage.ucr.edu/research/symposium).
+
+
+.project {
+    background: linear-gradient(-45deg, #cbdcfa, #d9eefc, #e9f0fd , #eff3f5);
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
