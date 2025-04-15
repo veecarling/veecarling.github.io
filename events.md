@@ -4,7 +4,7 @@ title: Events
 subtitle: 
 cover-img: /assets/img/rise-pres-bkg.jpg
 ---
-<div class = "project" style="padding:15px">
+<div class = "projects" style="padding:15px">
 <h1> CSU San Bernardino CalSWIFT 2025 Symposium</h1>
 <i>April 11, 2025</i>
   
@@ -16,7 +16,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <a href="/assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
 </div>
 <br><br>
-<div class = "project" style="padding:15px">
+<div class = "projects" style="padding:15px">
 <h1> Council for Undergraduate Research: STR Program</h1>
 <i>March 1, 2025 - March 3, 2025</i>
   
@@ -59,8 +59,10 @@ We create and optically characterize the electrically controllable WSe₂ and Mo
 
 More information on the symposium can be found [**here**](https://engage.ucr.edu/research/symposium).
 
+
 <style>
-.project {
+
+.projects {
     background: linear-gradient(-45deg, #cbdcfa, #d9eefc, #e9f0fd , #eff3f5);
     animation: gradient 15s ease infinite;
 }
