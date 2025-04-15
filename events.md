@@ -59,7 +59,7 @@ We create and optically characterize the electrically controllable WSe₂ and Mo
 
 More information on the symposium can be found [**here**](https://engage.ucr.edu/research/symposium).
 
-
+<style>
 .project {
     background: linear-gradient(-45deg, #cbdcfa, #d9eefc, #e9f0fd , #eff3f5);
     animation: gradient 15s ease infinite;
@@ -76,3 +76,4 @@ More information on the symposium can be found [**here**](https://engage.ucr.edu
         background-position: 0% 50%;
     }
 }
+</style>
