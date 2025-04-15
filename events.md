@@ -32,7 +32,7 @@ More information on the CUR-STR program can be found <a href="https://www.cur.or
 <br>
 The featured articles can be found here:<br>
 <a href="https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program"><b>UCR Team to Participate in National Undergraduate Research Program</b></a>
-<br><br>
+<br>
 <a href="https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action"><b>CNAS Visits Washington on a Call to Action</b></a>
 </div>
 
