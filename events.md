@@ -60,7 +60,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <div class = "projects" style="padding:15px">
 <h1>2024 UC Riverside Undergraduate Research and Creative Activities Symposium </h1>
 <i>Apr. 2024</i><br>
-
+<br>
 <a href="https://www.youtube.com/watch?v=1-5c_JY-Y90)" target = "_blank">
 <button class="button-57" role = "button"><span class="text"><b>Oral Presentation: "Optical Characterization of TMD Heterostructure Device"s</b></span><span>YouTube</span></button></a>
 <br><br>
