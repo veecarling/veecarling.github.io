@@ -4,7 +4,7 @@ title: Background & Interests
 subtitle:
 cover-img: /assets/img/dt-toronto.JPG
 ---
-<div style = "background-color:#F0F8FF; padding:15px">
+<div class="welcome" style = "padding:15px">
 I am a researcher and a recent graduate at University of California, Riverside, with a bachelors in Physics. 
 <br><br>
 <a href = "https://veecarling.github.io/assets/files/Vanessa_Kwong_CV.pdf" target = "_blank">
@@ -123,5 +123,22 @@ As a parallel with my initial interest in forensics, patent law gives respect to
   transform: translateX(-50%) translateY(-100%);
   opacity: 1;
   transition: all 900ms cubic-bezier(0.48, 0, 0.12, 1);
+}
+
+.welcome {
+    background: linear-gradient(-45deg, #cbdcfa, #d9eefc, #e9f0fd , #eff3f5);
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 </style>
