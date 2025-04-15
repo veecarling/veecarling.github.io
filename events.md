@@ -58,7 +58,8 @@ Silicon-based semiconductor devices have come to make many modern technological 
 We create and optically characterize the electrically controllable WSe₂ and MoSe₂ monolayer transistor devices at room and cryogenic temperatures. These devices will serve as the basis for designing novel valleytronic devices, where photons can be stored and manipulated in both the spin and valley states.
 
 More information on the symposium can be found [**here**](https://engage.ucr.edu/research/symposium).
-
+---
+<br>
 
 <style>
 
