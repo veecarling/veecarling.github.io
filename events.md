@@ -69,7 +69,7 @@ Silicon-based semiconductor devices have come to make many modern technological 
 <img src="/assets/img/ugrs-dev.jpg" alt="Monolayer WSe2 Device">
 <br><br>
 We create and optically characterize the electrically controllable WSe₂ and MoSe₂ monolayer transistor devices at room and cryogenic temperatures. These devices will serve as the basis for designing novel valleytronic devices, where photons can be stored and manipulated in both the spin and valley states.
-
+<br><br>
 <a href="https://engage.ucr.edu/research/symposium" target = "_blank">
 <button class="button-57" role = "button"><span class="text"><b>Additional information on the symposium</b></span><span>UCR UGRS</span></button></a>
 <br><br>
