@@ -14,7 +14,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 </ul>
 
 <a href="/assets/files/calswift-program.pdf" target = "_blank">
-<button class="button-57" role = "button"><span class="text"><b>CalSWIFT Program</b></span><span>...</span></button></a>
+<button class="button-57" role = "button"><span class="text"><b>calSWIFT'25 Program</b></span><span>...</span></button></a>
 <br><br>
 <a href="https://www.csusb.edu/student-research/events-and-calendar/calswift25" target = "_blank">
 <button class="button-57" role = "button"><span class="text"><b>More information...</b></span><span>calSWIFT'25</span></button></a>
