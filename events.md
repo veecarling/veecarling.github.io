@@ -8,8 +8,10 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <h1> CSU San Bernardino CalSWIFT 2025 Symposium</h1>
 <i>April 11, 2025</i>
   
-<ul>California Semiconductor Workforce Development & Innovation for Future Technologies</ul>
-<ul>Panelist speaker for Student Experiences in Semiconductor Research</ul>
+<ul>
+  <li>California Semiconductor Workforce Development & Innovation for Future Technologies</li>
+  <li>Panelist speaker for Student Experiences in Semiconductor Research</li>
+</ul>
 
 <a href="assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
 </div>
@@ -18,10 +20,12 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <h1> Council for Undergraduate Research: STR Program</h1>
 <i>March 1, 2025 - March 3, 2025</i>
   
-<ul>Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience </ul>
-<ul>Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work</ul>
+<ul>
+<li>Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience </li>
+<li>Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work</li>
 <br><img src="assets/img/str-cur.jpg" alt="STR-CUR"><br>
-<ul>Participate in multiple workshops to enhance development and advocacy in scientific communication</ul>
+<li>Participate in multiple workshops to enhance development and advocacy in scientific communication</li>
+</ul>
 <br>
 
 More information on the CUR-STR program can be found <a href="https://www.cur.org/events-services/str-program/"><b>here</b></a>.
