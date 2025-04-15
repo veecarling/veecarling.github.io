@@ -13,7 +13,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
   <li>Panelist speaker for Student Experiences in Semiconductor Research</li>
 </ul>
 
-<a href="assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
+<a href="/assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
 </div>
 <br><br>
 <div class = "project" style="padding:15px">
@@ -23,7 +23,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <ul>
 <li>Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience </li>
 <li>Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work</li>
-<br><img src="assets/img/str-cur.jpg" alt="STR-CUR"><br>
+<br><img src="/assets/img/str-cur.jpg" alt="STR-CUR"><br>
 <li>Participate in multiple workshops to enhance development and advocacy in scientific communication</li>
 </ul>
 <br>
