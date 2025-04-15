@@ -23,10 +23,9 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <ul>
 <li>Represent University of California, Riverside, and the UC system in sharing impact of past undergraduate research experience </li>
 <li>Advocate for undergraduate research funding to stakeholders and funding sources at Capitol Hill, including California Sen. Alex Padilla, Sen. Adam Schiff, and Rep. Mark Takano, emphasizing importance in mentorship, early exposure to opportunities in academia, and nurturing the next generation of researchers and their applied work</li>
-<br><img src="/assets/img/str-cur.jpg" alt="STR-CUR"><br>
 <li>Participate in multiple workshops to enhance development and advocacy in scientific communication</li>
 </ul>
-
+<br><img src="/assets/img/str-cur.jpg" alt="STR-CUR"><br>
 More information on the CUR-STR program can be found <a href="https://www.cur.org/events-services/str-program/"><b>here</b></a>.
 <br><br>
 The featured articles can be found here:<br>
