@@ -11,10 +11,9 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <ul>California Semiconductor Workforce Development & Innovation for Future Technologies</ul>
 <ul>Panelist speaker for Student Experiences in Semiconductor Research</ul>
 
-<a href="assets/files/calswift-program.pdf">CalSWIFT Program</a>
+<a href="assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
 </div>
 <br><br>
-
 <div class = "project" style="padding:15px">
 <h1> Council for Undergraduate Research: STR Program</h1>
 <i>March 1, 2025 - March 3, 2025</i>
@@ -26,10 +25,11 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <br>
 
 More information on the CUR-STR program can be found <a href="https://www.cur.org/events-services/str-program/"><b>here</b></a>.
-<br><br>
+<br>
 The featured articles can be found here:
 <a href="https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program"><b>UCR Team to Participate in National Undergraduate Research Program</b></a>
-<a href="https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action"><b>CNAS Visits Washington on a Call to Action</b>
+<br><br>
+<a href="https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action"><b>CNAS Visits Washington on a Call to Action</b></a>
 </div>
 
 ---
