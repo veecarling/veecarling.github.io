@@ -17,7 +17,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <button class="button-57" role = "button"><span class="text"><b>calSWIFT'25 Program</b></span><span>...</span></button></a>
 <br><br>
 <a href="https://www.csusb.edu/student-research/events-and-calendar/calswift25" target = "_blank">
-<button class="button-57" role = "button"><span class="text"><b>More information...</b></span><span>calSWIFT'25</span></button></a>
+<button class="button-57" role = "button"><span class="text"><b>Additional information on calSWIFT'25</b></span><span>CSUSB - calSWIFT'25</span></button></a>
 </div>
 <br>
 <div class = "projects" style="padding:15px">
@@ -30,12 +30,12 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <li>Participate in multiple workshops to enhance development and advocacy in scientific communication</li>
 </ul>
 <br><img src="/assets/img/str-cur.jpg" alt="STR-CUR"><br>
-
+<br><br>
 <a href="https://www.cur.org/events-services/str-program/" target = "_blank">
-<button class="button-57" role = "button"><span class="text"><b>More information on CUR-STR</b></span><span>CUR-STR</span></button></a>
+<button class="button-57" role = "button"><span class="text"><b>Additional information on CUR-STR</b></span><span>CUR-STR webpage</span></button></a>
 <br><br>
   
-The featured news articles from UC Riverside can be found here:
+<b>The featured news articles from UC Riverside can be found here:</b>
 <br>
 <a href="https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program"><b>UCR Team to Participate in National Undergraduate Research Program</b></a>
 <br>
@@ -43,12 +43,23 @@ The featured news articles from UC Riverside can be found here:
 </div>
 
 ---
-## 2024 UC Riverside Research in Science & Engineering Symposium
-*Aug. 28, 2024*
 
-My oral presentation slides on my summer project, **"Developing Low Temperature Contacts for Monolayer TMD Heterostructures"**, can be found [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
+<div class = "projects" style="padding:15px">
+<h1>2024 UC Riverside Research in Science & Engineering Symposium </h1>
+<i>Aug. 28, 2024</i>
+  
+<ul>
+  <li></li>
+  <li></li>
+</ul>
 
-More information on the symposium can be found [**here**](https://rise.ucr.edu/2024-risemarc-symposium).
+<a href="/assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf" target = "_blank">
+<button class="button-57" role = "button"><span class="text"><b>Developing Low Temperature Contacts for Monolayer TMD Heterostructures</b></span><span>Oral Presenation slides</span></button></a>
+<br><br>
+<a href="https://rise.ucr.edu/2024-risemarc-symposium" target = "_blank">
+<button class="button-57" role = "button"><span class="text"><b>Additional information on the symposium</b></span><span>RISE Webpage</span></button></a>
+<br><br>
+</div>
 
 ---
 
