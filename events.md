@@ -47,7 +47,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <div class = "projects" style="padding:15px">
 <h1>2024 UC Riverside Research in Science & Engineering Symposium </h1>
 <i>Aug. 28, 2024</i><br>
-
+<br>
 <a href="/assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf" target = "_blank">
 <button class="button-57" role = "button"><span class="text"><b>Developing Low Temperature Contacts for Monolayer TMD Heterostructures</b></span><span>Oral Presenation slides</span></button></a>
 <br><br>
