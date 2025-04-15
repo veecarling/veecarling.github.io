@@ -15,7 +15,7 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 
 <a href="/assets/files/calswift-program.pdf"><b>CalSWIFT Program</b></a>
 </div>
-<br><br>
+<br>
 <div class = "projects" style="padding:15px">
 <h1> Council for Undergraduate Research: STR Program</h1>
 <i>March 1, 2025 - March 3, 2025</i>
