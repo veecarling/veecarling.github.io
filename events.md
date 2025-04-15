@@ -19,7 +19,9 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <a href="https://www.csusb.edu/student-research/events-and-calendar/calswift25" target = "_blank">
 <button class="button-57" role = "button"><span class="text"><b>Additional information on calSWIFT'25</b></span><span>CSUSB - calSWIFT'25</span></button></a>
 </div>
-<br>
+
+---
+
 <div class = "projects" style="padding:15px">
 <h1> Council for Undergraduate Research: STR Program</h1>
 <i>March 1, 2025 - March 3, 2025</i>
