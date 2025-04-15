@@ -31,9 +31,13 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 <li>Participate in multiple workshops to enhance development and advocacy in scientific communication</li>
 </ul>
 <br><img src="/assets/img/str-cur.jpg" alt="STR-CUR"><br>
-More information on the CUR-STR program can be found <a href="https://www.cur.org/events-services/str-program/"><b>here</b></a>.
+
+<a href="https://www.cur.org/events-services/str-program/" target = "_blank">
+<button class="button-57" role = "button"><span class="text"><b>More information on CUR-STR</b></span><span>CUR-STR</span></button></a>
 <br><br>
-The featured articles can be found here:<br>
+  
+The featured news articles from UC Riverside can be found here:
+<br>
 <a href="https://insideucr.ucr.edu/awards/2024/10/16/ucr-team-participate-national-undergraduate-research-program"><b>UCR Team to Participate in National Undergraduate Research Program</b></a>
 <br>
 <a href="https://cnas.ucr.edu/news/2025/03/20/cnas-visits-washington-call-action"><b>CNAS Visits Washington on a Call to Action</b></a>
