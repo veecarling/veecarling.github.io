@@ -37,9 +37,11 @@ In my final years of my undergraduate degree, I have been working as an undergra
 ### *In Research...* ###
 Continuing research dealing with two-dimensional materials is of interest, building onto my technical nanofabrication skills to test quality and efficiency in various semiconducting materials applicable to optoelectronics. Specifically I would like to investigate quantum states in novel materials such as transition metal dichalcogenides and their light-matter interaction through studying optics and transport. At the monolayer limit, these materials act as semiconductors capable of hosting correlated states, found at "magic angles". 
 
+![Research](assets/img/moire.jpg)
+
 By creating a moiré pattern using twisted materials within a heterostructure device, light can interact differently with the resulting alignments (..or misalignments) of the original crystal structure. Successful experimentation with light and exciton activity in van der Waals materials at two dimensions opens the doors to large advancements in technology though its wide applications to optoelectronics development by discovering the properties and interactions of these materials.
 
-![Research](assets/img/moire.jpg)
+![solarcell](assets/img/solarcell.jpg)
 
 In addition, my work as an undergraduate researcher and now building onto my progress as a post-grad researcher, focus on developing reliable low-temperature Ohmic contacts for TMDs such as p-type monolayer WSe2. This is done to eventually investigate Quantum Hall states in these materials. Initial tests consisted of measuring contact resistance and taking magnetotransport measurements for various monolayer TMD devices. I fabricate dual gated devices with h-BN-encapsulated monolayer TMDs using various nanofabrication techniques and equiptment including electron-beam lithography and evaporation with dry transfer of samples mechanically exfoliated from flux-grown bulk crystals. 
 
