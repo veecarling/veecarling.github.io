@@ -6,11 +6,11 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 ---
 
 <div class = "projects" style="padding:15px">
-<h1> CNAS Experience & Research for Rep. Mark Takano's Visit</h1>
+<h1> Research & Experience in CNAS for Congressman Mark Takano's Visit</h1>
 <i>April 22, 2025</i>
   
 <ul>
-  <li>Share important applications of 2D semiconductor materials research and its relevancy</li>
+  <li>Share important applications and relevancy of 2D semiconductor materials research to Rep. Mark Takano (CA-39)</li>
   <li>Advocate for undergraduate research funding sources to propel future UCR research programs</li>
 </ul>
 
