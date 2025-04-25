@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/dt-toronto.JPG
 ---
 <div class="welcome" style = "padding:15px">
-I am a researcher and a recent graduate at University of California, Riverside, with a bachelors in Physics. 
+I am a researcher and an incoming PhD student at University of California, Riverside, holding a bachelors in Physics. 
 <br><br>
 <a href = "https://veecarling.github.io/assets/files/Vanessa_Kwong_CV.pdf" target = "_blank">
 <button class="button-57" role="button"><span class="text">Please refer to my curriculum vitae here</span><span>CV</span></button>
