@@ -11,7 +11,7 @@ I am a researcher and an incoming PhD student at University of California, River
 <button class="button-57" role="button"><span class="text">Please refer to my curriculum vitae here</span><span>CV</span></button>
 </a>
 <br><br>
-I look forward to additional research involvement and higher education in condensed matter physics or materials science / engineering, and potentially patent law in the semiconductor industry. 
+I look forward to additional research involvement in condensed matter physics, and potentially patent law in the semiconductor industry. 
 </div>
 ---
 
