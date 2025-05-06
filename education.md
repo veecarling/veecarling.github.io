@@ -5,6 +5,9 @@ cover-img: assets/img/belltower.JPG
 ---
 
 ### University of California, Riverside ###
+**Ph.D Physics** - Incoming Ph.D student in Fall 2025
+
+
 **B.S. Physics** - Standard Track, *Expected April 2025*
 
 ![ucr](assets/img/ucr-seal.jpg)
