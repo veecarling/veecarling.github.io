@@ -49,7 +49,7 @@ In addition, my work as an undergraduate researcher and now building onto my pro
 
 The application of a current with a perpendicular magnetic field applied to such devices cause negatively-charged electrons and positively-charged holes to separate, creating a charge potential. Carrier type and density can be extracted from these data. I aim to measure Hall resistance and observe Shubnikov-deHaas oscillations from the Quantum Hall effect. I would like to continue and expand on this project, studying transport and its efficiency in adjacent materials.
 
-![R1C](assets/img/r1c.jpg)
+![R1C](assets/img/dev-r1c.jpg)
 
 ### *In Education and Advocacy...* ###
 As with research in condensed matter physics, I aim to make large-scale contributions through studying and making changes at the small-scale. Reflecting on my learning curve and initial progress in a new area of study and research, to seeing the impactful projects of students I have trained, I have growing respect and appreciation for academia and research. In academia, mentorship plays a large role in the development of researchers, from principal investigator to graduate students, and from them to undergraduates. I believe effective undergraduate research begins with the right support and resources to help a student grow and push their potential. Not only does this gift each student with opportunity, but even broader, will effectively nurture the next generation of researchers, science, and implementation of these discoveries to the general public.
