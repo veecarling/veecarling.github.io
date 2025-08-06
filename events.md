@@ -6,6 +6,18 @@ cover-img: /assets/img/rise-pres-bkg.jpg
 ---
 
 <div class = "projects" style="padding:15px">
+<h1> Department of Physics & Astronomy Senior Research Symposium</h1>
+<i>June 15, 2025</i>
+  
+<ul>
+  <li>Oral Presentation on Transport in Monolayer WSe2 Devices, as a part of Department of Physics & Astronomy Graduation Events</li>
+</ul>
+
+</div>
+
+---
+
+<div class = "projects" style="padding:15px">
 <h1> Research & Experience in CNAS for Congressman Mark Takano's Visit</h1>
 <i>April 22, 2025</i>
   
